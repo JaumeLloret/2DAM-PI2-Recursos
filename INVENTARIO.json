@@ -1,5 +1,5 @@
 {
-  "edition": "2026.09.08",
+  "edition": "2026.09.08-contrato-v1.0",
   "course": "2026-27",
   "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
   "units": [
@@ -602,6 +602,17 @@
       "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
       "sha256": "cb07dbf5e71bb8b94b6efe3f4c39073b2c95fe6e181090cd511e06ceeef29b0e",
       "adapted": true
+    },
+    {
+      "path": "Contrato/AulaFlow_2_0_Contrato_operativo_v1.0.xlsx",
+      "artifact_version": "v1.0",
+      "sha256": "23789638d150024643850665f54a3f880d1bd1d0da2ac5db1d25538d81be9ccc",
+      "bytes": 113541,
+      "git_blob": "ebf6f89c10dd7d269d828bfbc4687fe384de9eee",
+      "kind": "copia_contractual_sin_equipo_ni_aceptaciones",
+      "verified_tasks": 264,
+      "verified_task_cells": 5544,
+      "calculation_checks": 88
     }
   ]
 }

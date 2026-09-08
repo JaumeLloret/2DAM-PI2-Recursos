@@ -1,0 +1,607 @@
+{
+  "edition": "2026.09.08",
+  "course": "2026-27",
+  "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+  "units": [
+    "PI1",
+    "PI2",
+    "PI3"
+  ],
+  "files": [
+    {
+      "path": "PI1/Alumnado/00_INDICE_ALUMNADO_PI1.md",
+      "source_blob": "40ff36c6686422c7758db7438579d55c8e730f57",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "65a4d92914c31e98669e4ca518a2a256e8dd2ed11ba8451cfe72cafdbe0faf63",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/01_PLANTILLA_DOSSIER_PI1.md",
+      "source_blob": "38b4e9a6f236a0f58d8c259e6980ca34a808ba83",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "b2ac19dc2c08f19c3afd2d29b6923a68d914c7232d05005d0812624d0cfccc86",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/02_CHECKLIST_BASELINE_PI1.md",
+      "source_blob": "29f6cc08c9786261b4a4246d67b960482cc250a1",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "49392c7bd7f7c16cfd96b217e8c2af98e4b71306a1b56ce2d78b150a65835bcd",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/03_MAPA_SISTEMA_PI1.md",
+      "source_blob": "b6888d8764a5f9870329845eab1c54936441a1ab",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "7990f97ae23caf7339ce5265349f66ba3ae00420e0b0c4c604f8608e45c05064",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/04_DECISIONES_LEGADO_PI1.md",
+      "source_blob": "1f3b68d03d7dc74e40cd9c2db174ce3a3d3a944b",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "60c960e4e3f21c2aaa404c094e0b6b49225d29b9375e00f0e01f2ee5d1799063",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/05_CONTEXTO_NECESIDADES_PI1.md",
+      "source_blob": "a4070f7469fe2a4f5ab0168d2b628e99fde8d10d",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "6eec1358060ad22df4d196961dac566f49b316ae63b0d7b7a404a4f1eea37f84",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/06_CONDICIONANTES_FUENTES_PI1.md",
+      "source_blob": "88a9f5de1d5641c56d21e703813a44b31977db88",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "1e6ae5800c5fc62c0d67f2470a9d92511e2fc1be026b2173d2e3520be4781ebd",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/07_GUION_INICIAL_PI1.md",
+      "source_blob": "2c97b7a1bf682f097c08f001829110176b420cda",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "8e64f10bdcdf3aec48da183beaccdb13ed6e2ee63cfd4d6813b7a807a838b706",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/08_ENTREGA_Y_AUTENTICIDAD_PI1.md",
+      "source_blob": "6172e1864dc6cdcf5cd0f54788930a5faf4909c4",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "381035bb4d60b541da20d6a3e753ff4808f6b817510010818ecb643880977187",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Alumnado/09_CASO_CONTEXTO_PI1.md",
+      "source_blob": "340f9a8169798c280a5c1419e1ff818a833eb447",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "f4d1b16e05ba138ba9a6067a7b0f67f052da39f6f8de1c311c11cda81c9ac076",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/01_GUIA_ALUMNADO_PI1.md",
+      "source_blob": "2805376ad4b33c27fa3ff48b38996dbe9bc896da",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "bd2a683f562bdecd3c674e8957b37a78ba751802f687db3d76373750b8fbf6a8",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/02_CONTENIDOS_PI1.md",
+      "source_blob": "4fe0769e7b81a8f8cf479d40b4b4db6fe1cfadcb",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "c38e8de906567f65a3dc70f64ca8319f25075be029e1d3fba3d41aa8e73af961",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/03_AUDITORIA_LEGADO_PI1.md",
+      "source_blob": "cac6ceb1a23d65e43e700564b8afef7bd8351a9b",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "a3d5321e1f34d3d90e72bc0bc279933f0445dce6d0c2ba4ca83e6ec481c159b2",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/04_SECTOR_NECESIDADES_PI1.md",
+      "source_blob": "d969f55a91b562fecf63d2e87119726d4ed7fef9",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "4487ca093b6c662316ec17301554950456dfa7dfbdf60250a984497c3220e0a6",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/05_CONDICIONANTES_Y_AYUDAS_PI1.md",
+      "source_blob": "5ea05b1c256e0f62ed54b13054536b1101be6cb3",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "4755efa0c76ab1bdc4e677e612e836d71a130921ead79b53b11880c8c0fdc29b",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/06_LABORATORIO_G0_PI1.md",
+      "source_blob": "578c8fb6d6f4c109c72c4e72e4d5570150ac7650",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "b579f7f924d4340a3188324ed32b9704e25bc700dc9a4701770dfd973bf254c8",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/07_EVALUACION_PI1.md",
+      "source_blob": "82954dbf6b3a1d908f91b549bec3faf47a301002",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "4350bb199dc4b07f7f03652367632f81354c3fbce28c3ca591f8cbabb5908057",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/09_AMPLIACION_PI1.md",
+      "source_blob": "d751493558fd3ec87730e2993d16a3b4b8cc7833",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "abfe025c3d0d7952bc57702a40c39f9a23824aeb98902eafd05d7c4794a6a096",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/10_REFERENCIAS_Y_ACTUALIZACION_PI1.md",
+      "source_blob": "149aaf429914dc50233f4f9343b1cebde599cb07",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "be2bc90789247a05eea286b28f044c48c2f9ed6de78e7eed32c3bc88ebd4fbd2",
+      "adapted": true
+    },
+    {
+      "path": "PI1/Unidad/11_EJEMPLOS_Y_ENTRENAMIENTO_PI1.md",
+      "source_blob": "c1f684c490407bdbf2965f876df3304ac3fec0bd",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "9ce1b93a5b737c2b122557222618ec10865c5c6c1e082f01118c3e28a9afcc33",
+      "adapted": true
+    },
+    {
+      "path": "PI2/AULES/publico/TALLER_1_PI2.md",
+      "source_blob": "225f3935b1e02e7e4cf486ad4878d43eabd63fd1",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "86c5c0eec392eeee86bd5635943eea62a38ea65f926cbc94d1be0dbcdd014545",
+      "adapted": true
+    },
+    {
+      "path": "PI2/AULES/publico/TALLER_2_PI2.md",
+      "source_blob": "988de3f69c724ab0909e0a3358059df449da4d19",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "ff738e3e054035df8ec2fe78639ba4f10b35a49c1741287e203a4e0bf9df740a",
+      "adapted": true
+    },
+    {
+      "path": "PI2/AULES/publico/TALLER_3_PI2.md",
+      "source_blob": "ff645467d46ea0f3a4bc17d71dad23af2d55d632",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "44778f5774ec0392940e3dce251114fca8eab9fdc3fcbf4bbe8d69076bf5b9df",
+      "adapted": true
+    },
+    {
+      "path": "PI2/AULES/publico/TALLER_4_PI2.md",
+      "source_blob": "de26f6f5b5729c35ee1fb6ff1b1b04e9bae97c7e",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "a64ec13f43b3781cde290787b11baf56a65a7c3b1a21f554564935ae4c724135",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/00_INDICE_ALUMNADO_PI2.md",
+      "source_blob": "4f509b2e2cebe6782862cf084abb807ce31412c5",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "36f69254a70d3d216f4ff5f5bb9371816b36aebe0133f225d770eec649501bd0",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/01_PAQUETE_PI2.md",
+      "source_blob": "f9f5de4aa992fa157eec7f4e94723f3acabdd393",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "f0948ccae0afe4b427092f2e861f603265c1ee7c3a5ae1ff9fd144cf00e8ed80",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/02_BRIEFING_PI2.md",
+      "source_blob": "d241ed4d55f6621716bbd861b0000dc3d7895447",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "5b084074f7e2cfcc0a20d592da6955fb2c97add98cf3c2791a5f99e125708a86",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/03_OBJETIVOS_Y_ALCANCE_PI2.md",
+      "source_blob": "afaae91d95f6e429e75a0950f0cfca00eedaea4b",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "d2d6fdffdc99be2f1f20488b406f8cdf2e092b924cb23cc0be08a7026a884007",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/04_CONTRATO_CORTO_PI2.md",
+      "source_blob": "d4b5bc24c6341621f2d2b976bf6fff1ca75bc678",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "95f54659f505c612f5d2bd8320a948524a6e0b81adfe4470c62cb39940c75a0d",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/05_ANEXO_CONTRATADO_PI2.json",
+      "source_blob": "3276df3af4875c07305bfeb5f038892f0f680115",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "e3082ea69d8d839c1f5889d55022967ca7b8f936dcb4279a2dc9cdd033203dda",
+      "adapted": false
+    },
+    {
+      "path": "PI2/Alumnado/05_ANEXO_CONTRATADO_PI2.md",
+      "source_blob": "78ab8eb757f3d59f483b9ac81e667d2e78e16191",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "dfcfaee460ba84ebcd81e927a6431248ffe160333ffdbde4eaa24b303c8a7995",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/06_ACEPTACION_PI2.md",
+      "source_blob": "663f372dde2cbfa68ac3e1951278eb49ada40ad2",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "830a60a1bff135b9afa55b30c56ca574d1f9b8bcb6d44c90b23fa21182f02bc3",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/07_ESTUDIO_VIABILIDAD_PI2.md",
+      "source_blob": "38173da756440040fc6daf4247292aa5dd4bee39",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "560f1779b7c2f2a7c5d41775f31cc8996cddca2e7049ce27b5b015dea9690e53",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/08_NECESIDADES_FINANCIACION_PI2.md",
+      "source_blob": "292e01a12f71bb7ddcedc666068f3f15deaa3cd6",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "3e14cada82b4ed9e58254a52af6f9788144f4829be5f8a0f79166d6aafbd6b03",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/09_DOCUMENTACION_DISENO_PI2.md",
+      "source_blob": "ab115b6fd47bdaa5b552204bb01e5062bf3de8bf",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "71ff4cfba5ec5f13b3f6d5cd785bd10b515decb3b97b1acac0be83390602265b",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/10_CALIDAD_PREVISTA_PI2.md",
+      "source_blob": "5bee6abc042d258fde1ca909968da1c05d873f84",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "054a1cdc28ef6c655486d3a24c9b2cff6cb08b94de225cc22ecbd50573ee3997",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/11_DECISIONES_CR_Y_PREGUNTAS_PI2.md",
+      "source_blob": "44117f3379c142ee06ca25552e934e7b3ca407dc",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "006b4ba7a7503156d278f0778217dad6983038a06cf702b91520bce19c3405d3",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/12_ENTREGA_Y_AUTENTICIDAD_PI2.md",
+      "source_blob": "d862ad97070718971770d4753c36c43845132912",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "0ed4c07a7c547910e694878ed77a91aac337aefb82e3129ea7c847ac80f4d775",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Alumnado/13_CASO_RESERVALAB_PI2.json",
+      "source_blob": "6ea9422f13368d938df11d6d0aa286ef739807ad",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "4de9475cc81064ca13e55d77da93c3f0a2eadc293ec8e663bcc1b8c66120b789",
+      "adapted": false
+    },
+    {
+      "path": "PI2/Alumnado/13_CASO_RESERVALAB_PI2.md",
+      "source_blob": "43e0ae64ac1974b703c93913a8058e5d68153c0a",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "e2e7d0ba5af17af64a3a1f3932021f83cc22c81de3ff9b464ea44f617b6453b4",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/01_GUIA_ALUMNADO_PI2.md",
+      "source_blob": "edb47ea11e86ab8f06c271202d34c4ff7dfe3366",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "ac0ff80c246bb336b0f826032d3a089744c70aef8b84ad5c5cc066806252beef",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/02_CONTENIDOS_PI2.md",
+      "source_blob": "ca83adc49c655fba8dc896c54b54e1437e75215b",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "269cd34b28da222d74d18b5c622a796cec2ce919b04214f9fbf165e34f82650a",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/03_BASELINE_Y_AULATOKENS_PI2.md",
+      "source_blob": "7daa78da814687ba92207f89ac4ac77a3eaf39a7",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "79b0d039ac88b6b4d4a77ea7af40b82723d8e0d15749eafc9afb980f22c7bcdd",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/04_OBJETIVOS_Y_ALCANCE_PI2.md",
+      "source_blob": "a2718499008f57eb1c6e6edad98bbbaa97fa6cfe",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "cac557560912cb09884c278e6d27eb02b907c8a1edc093e8933460a7ff36f13b",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/05_VIABILIDAD_PI2.md",
+      "source_blob": "4c1eb0a6ab1cc97f41a0fbd335a08b6663910f89",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "f0dd085cff375fae26396eb16b7654b3975ce4e8a29e13cf51bf16287ff1325c",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/06_FINANCIACION_PI2.md",
+      "source_blob": "376b72eca33475b3c18ddfe4e00632b382461804",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "70a223cb3a0faa5321fdaafe1588a463c370b568d6976e0ed274ffdd48d2321f",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/07_DISENO_Y_CALIDAD_PI2.md",
+      "source_blob": "2a0c7e86d91c0c120820662c2b83ddded80e1020",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "bb063bd89427556dc7f4c8d26906a5d51c1b54975d05bd6a99cbe56e156d3b35",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/08_EJEMPLOS_Y_ENTRENAMIENTO_PI2.md",
+      "source_blob": "7e559b6daa8e6b177c5291d1c136d91a5bc110a1",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "157b8f488029789981f55b4dc2a9c9a1465b2ae9ce72cd5b52e7586396538394",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/09_LABORATORIO_CONTRACTUAL_PI2.md",
+      "source_blob": "b8edf2a132a0dd8196a912d441fb6145440cfe69",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "3bac10b27efae7062878649585d7c376057d4bc6c091b27ad56265958d07305c",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/10_EVALUACION_PI2.md",
+      "source_blob": "43be80e2c0064b12f2450bd6a640d1bd43a1a5fe",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "8f5c79324b0b8b09391d2bfdeb7004c70b99ce22ebece4701db96680c213d0ad",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/12_AMPLIACION_PI2.md",
+      "source_blob": "5527bbef0a7e21810c7f6da0718b442da4b0d51b",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "e039383777d06d3c0e59b2deb34f336311a75ece08fc7925b135fef2816356bd",
+      "adapted": true
+    },
+    {
+      "path": "PI2/Unidad/13_REFERENCIAS_PI2.md",
+      "source_blob": "43f851bf0311e6bcbcb0e36fb5a683825156420c",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "8c54f3760fdbfdb14ad004b3b4d5275c72da303ee31a43b1663ba61be1322ec1",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/00_INDICE_ALUMNADO_PI3.md",
+      "source_blob": "47bf27b2b324bbb5a3729ed6ac189301d48e6e6e",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "489901f1056d1a4d0d6dd665834a8b879fa455042d8aa73af1d1d1e71d5dd026",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/01_CUADERNO_TRABAJO_PI3.md",
+      "source_blob": "74cb06c8e971a83d037ac5e0752f39fba1bda4a9",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "0f244c3fa97697d55277c246a3ceb9676b16e39292693b7c5714d1a1a7ea93ab",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/02_PLANTILLAS_PAQUETE_PI3.md",
+      "source_blob": "76250568e1603ab5653ef7d3c56d19597866e03a",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "ba65d75454be73c394f31b2cb706be0fb557655d3c2a95749de2be3e5bde673c",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/03_CHECKLIST_ENTREGA_PI3.md",
+      "source_blob": "62bdc71af50e99cbac2464f4d96267b902e848e9",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "3679b57d4c869e8b1f3be7d705c25966ce32828c09f6015e40e5ea5cecb9a8a3",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/04_REGISTRO_ENTREGA_PI3.md",
+      "source_blob": "ae5e86a774dec2f938ff0bbb7e1dd7c822c74a25",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "f44941c03788fef436dca145a935d8ba8346ba3f069298ca99dcd3a9c44d87f9",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/05_EQUIVALENCIAS_TALLERES_PI3.md",
+      "source_blob": "d2e2616c4f1bb87b4eb24a9859c46e44a48a2209",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "81aabf3351e2ca506ef27342ebb622e92bb52922357aff4800c561b51243ca12",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/06_GITHUB_PROJECTS_PI3.md",
+      "source_blob": "469e2e6ccf12c419c8527db6453ceb76e62af824",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "11c1a831eb0740708caff381bee85f9f55e68dc0e3d9c4ca6258422d49dd05b4",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/FORMATO_PLAN.md",
+      "source_blob": "ab481e0f0eac005daf96f18dfce1bb8c9f6c1da1",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "0860502fc1619d8fab0fc17570ad7adbc1e0ed9a148f1cee2b65b0e7eff7a8ce",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/ISSUE_PLANIFICACION.md",
+      "source_blob": "c1ad75a1e754da70b86d00f8a3816d692d856542",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "151f0ad0149f835ccf34b9e8711bc33e969a742464847f3b53fb01bf9aac3164",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P01_ROADMAP_FASES_Y_HITOS.md",
+      "source_blob": "75aa10dad3e0870c5f2dd4003c1578a189b20462",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "7ee2d9ccb84a8bb7704f0da82a3e8a8c2208fd139d07c26d4f18a6907b77e5b4",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P02_MAPA_ACTIVIDADES_Y_DEPENDENCIAS.md",
+      "source_blob": "ba8f18034079ac1d26e82a12945c9e2bbc612dbd",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "3bc07fa71c2491f1565237d95c759307e4f6cf4e759290cf56adcb50768eff45",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P03_ARQUITECTURA_GLOBAL.md",
+      "source_blob": "defed9eb64bdfcaa5f88d0e40fe524f40a0de426",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "f9d76b24d5bb34bdee334c222b1336b71418c413a9d0db3a4f351eda38cde5ab",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P04_BACKLOG_SECUENCIADO.md",
+      "source_blob": "f23dfa6d3a4ca3f11561b0f7b08f36055fe795e4",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "bdb10aba40c848f88aa7951977384c7994c33c52714129910de8532d72399252",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P05_MATRIZ_RECURSOS_Y_LOGISTICA.md",
+      "source_blob": "36d4aee43cfc229f37b3a9184a726683d93e82d3",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "01e540bb03b8cacfede6db8f6108a570520ff32608be740525cef950ccfbe280",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P06_PERMISOS_Y_AUTORIZACIONES.md",
+      "source_blob": "d8668e364ad73f2c8f3d4e772bf0213868c786fb",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "e985f124197644bd7281ef0ca4941e9a4df1e57a9eab15bc172f2f86d2989398",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P07_PROCEDIMIENTOS_DE_EJECUCION.md",
+      "source_blob": "6d27ca0b6b7432d9afdd1e1fa07a0f2e4ee38cfc",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "0c2da9edf02a23199d59346396113620f71fb99a06fb21d49e417f9f900a7fbd",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P08_ASIGNACION_CAPACIDAD_PERSONAS_TIEMPOS.md",
+      "source_blob": "771694f2457ffc55454ad21f138b5f010d00142f",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "0c8bd21a054054a2d724efe7f9e0d0b2a14a60a048a66213071041eb98396bd9",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P09_RIESGOS_PREVENCION_CONTINGENCIA.md",
+      "source_blob": "86ff3e1146bb3efed9a7fc91b6748a69b0a26f72",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "0060309786eb963bdc2fa3b9d1291075cf2446066dd2fcbdd7da0644ca03803a",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P10_DEPENDENCIAS_INTERMODULARES_Y_PUERTAS.md",
+      "source_blob": "caf8b503a44473087c43d6a6b605ea0a8489a73f",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "a4ad38aaea1cb19656f1ada8e738256c06f17d1c49e3f33329b7e035ef493fdb",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P11_DECISIONES_SUPUESTOS_TBD.md",
+      "source_blob": "85748fe51f2a1c2d99054d9c6f439670afafeedc",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "979c92bf0300cf20170636b73072ba2798117fe1a1743f5ab936fb235b734144",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/P12_EVIDENCIA_G1_Y_CHECKPOINT_INDIVIDUAL.md",
+      "source_blob": "6333d50ecccc559700c951074f0bbec0e2a00447",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "ae5a8b2d3151025b999328fc81032a8f97cd742abce06fa334d66da46cddf9b0",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Alumnado/Plantillas/plan_real.json",
+      "source_blob": "2621b0903c4c1aafdffd7e4c60bb4d15a2a354cf",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "47ec18334cc301d83561413d9aa8fae2ddaf32a3ded37fb7f33e7eb9bd68f4a9",
+      "adapted": false
+    },
+    {
+      "path": "PI3/Alumnado/Train/inventario.csv",
+      "source_blob": "2150fa7a307efdb86a5ffa582db12d6afeb62de8",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "acdeb169cbbdbfbe32ae1f65024db03c80d3a0e70b60339656638fa5352c9dd7",
+      "adapted": false
+    },
+    {
+      "path": "PI3/Alumnado/Train/reservalab_entrada.json",
+      "source_blob": "0f22797de5d003ec6fc4d38b6ef0c03865f8b53e",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "b3017efd3f3fec56d6b4e227dddb17b0b5c90a8f8d3d916939c2939b38b6c3ab",
+      "adapted": false
+    },
+    {
+      "path": "PI3/Unidad/01_GUIA_ALUMNADO_PI3.md",
+      "source_blob": "0b44f88ef3d4e9a950a8921d1c619811c23c4c24",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "94fa272987e2ea9208bcec4b15f40ccdb0562ff82fae371224b78a4698d00bec",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/02_CONTENIDOS_PI3.md",
+      "source_blob": "c6b581016e08dc4403e40991b417f6213fddc8a8",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "4cb4fc2ce85457a1e372ea77cef5d231ab714bccddb9c401efbeb4bb30afcfc7",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/03_EJEMPLOS_GUIADOS_PI3.md",
+      "source_blob": "835e8cc479c522ffd0b5fbda3c270b55c6348c11",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "a7a32a379cbcc724064b4b9d56eff3a74d52b489c33b8d721f1418948eddeb81",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/04_ENTRENAMIENTO_PI3.md",
+      "source_blob": "da61631bdde0475177eee0761181e56bdea15c2c",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "eff6c2740b68afbb8ecd48fbb44505815511297f8dd8405c2f95322a61385c04",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/05_CASO_TRAIN_PI3.md",
+      "source_blob": "7c95f2e4a098faecc235659c2eb90fdfa17581f8",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "38b3b6fc743af53c935649d424d964eaba66d3ead3122f2107c25f0f717aa1d7",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/06_LABORATORIO_PLANIFICACION_PI3.md",
+      "source_blob": "b3cce02698f831ec5e5406fe43881ec6275b38d2",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "efd036408fcc98fbb6d0e9dacb291c1fca9a34d53501cd7275bc11b6b76226e0",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/07_EVALUACION_PI3.md",
+      "source_blob": "0bb3ed50516c0c1db020052c039b08e8981e665c",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "06a21212501fb585887f1ef89fb6db63fca5eaa188dd03fe71bd7cbff88d5c85",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/09_AMPLIACION_PI3.md",
+      "source_blob": "c88637ca852322c1bc98d7f67b05d3b2853cb9fa",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "5e308843b8bdc5311c03b140427162caac87bc3dce8fbe2bda963805fcf53502",
+      "adapted": true
+    },
+    {
+      "path": "PI3/Unidad/10_REFERENCIAS_PI3.md",
+      "source_blob": "fcea85ea77b7c7a2d5b005b7ea9cd3fdadfdcc64",
+      "source_commit": "9eef30accaa951ed15b99577912e9145d4396f7c",
+      "sha256": "cb07dbf5e71bb8b94b6efe3f4c39073b2c95fe6e181090cd511e06ceeef29b0e",
+      "adapted": true
+    }
+  ]
+}

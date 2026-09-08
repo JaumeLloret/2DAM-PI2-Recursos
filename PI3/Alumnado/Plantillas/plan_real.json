@@ -1,0 +1,97 @@
+{
+  "version": "1.0",
+  "naturaleza": "REAL",
+  "at_son_horas": false,
+  "contrato": {
+    "estado": "PENDIENTE_CATALOGO",
+    "baseline": "AulaFlow 2.0 v1.0",
+    "huella_catalogo": null,
+    "tareas": []
+  },
+  "componentes": {
+    "P01": "P01_ROADMAP_FASES_Y_HITOS.md",
+    "P02": "P02_MAPA_ACTIVIDADES_Y_DEPENDENCIAS.md",
+    "P03": "P03_ARQUITECTURA_GLOBAL.md",
+    "P04": "P04_BACKLOG_SECUENCIADO.md",
+    "P05": "P05_MATRIZ_RECURSOS_Y_LOGISTICA.md",
+    "P06": "P06_PERMISOS_Y_AUTORIZACIONES.md",
+    "P07": "P07_PROCEDIMIENTOS_DE_EJECUCION.md",
+    "P08": "P08_ASIGNACION_CAPACIDAD_PERSONAS_TIEMPOS.md",
+    "P09": "P09_RIESGOS_PREVENCION_CONTINGENCIA.md",
+    "P10": "P10_DEPENDENCIAS_INTERMODULARES_Y_PUERTAS.md",
+    "P11": "P11_DECISIONES_SUPUESTOS_TBD.md",
+    "P12": "P12_EVIDENCIA_G1_Y_CHECKPOINT_INDIVIDUAL.md"
+  },
+  "personas": [],
+  "actividades": [],
+  "recursos": [],
+  "permisos": [],
+  "riesgos": [],
+  "decisiones": [
+    {
+      "id": "TBD-CATALOGO",
+      "objeto": "Anexo auténtico y contrato de equipo",
+      "responsable": "ROL-DOCENTE",
+      "revision": "Antes de planificación nominal",
+      "evento_cierre": "Catálogo distribuido/cotejado y contrato confirmado",
+      "estado": "PENDIENTE"
+    }
+  ],
+  "puertas": [
+    {
+      "id": "G2",
+      "estado": "NO_ACTIVADA",
+      "competencia": "TBD",
+      "criterio": "TBD",
+      "evidencia": null,
+      "dependencia": "TBD",
+      "condicion_activacion": "TBD",
+      "recuperacion": "TBD",
+      "decision_docente": null
+    },
+    {
+      "id": "G3",
+      "estado": "NO_ACTIVADA",
+      "competencia": "TBD",
+      "criterio": "TBD",
+      "evidencia": null,
+      "dependencia": "TBD",
+      "condicion_activacion": "TBD",
+      "recuperacion": "TBD",
+      "decision_docente": null
+    },
+    {
+      "id": "G4",
+      "estado": "NO_ACTIVADA",
+      "competencia": "TBD",
+      "criterio": "TBD",
+      "evidencia": null,
+      "dependencia": "TBD",
+      "condicion_activacion": "TBD",
+      "recuperacion": "TBD",
+      "decision_docente": null
+    },
+    {
+      "id": "G5",
+      "estado": "NO_ACTIVADA",
+      "competencia": "TBD",
+      "criterio": "TBD",
+      "evidencia": null,
+      "dependencia": "TBD",
+      "condicion_activacion": "TBD",
+      "recuperacion": "TBD",
+      "decision_docente": null
+    }
+  ],
+  "g1": {
+    "estado": "EN_PROGRESO",
+    "decision_docente": null,
+    "evidencia_individual": [],
+    "pendientes": [
+      "PENDIENTE_CATALOGO",
+      "Contrato de equipo",
+      "G0 individual",
+      "Plan nominal y checkpoint"
+    ]
+  }
+}

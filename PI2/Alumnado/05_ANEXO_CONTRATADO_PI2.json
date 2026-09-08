@@ -1,0 +1,23 @@
+{
+  "evidencia": "E05",
+  "baseline": "AulaFlow 2.0 v1.0",
+  "estado": "PENDIENTE_CATALOGO",
+  "catalogo_fuente": null,
+  "catalogo_huella": null,
+  "filas": [],
+  "total_at_contratado": null,
+  "at_validados": null,
+  "nucleo_cotejado": false,
+  "confirmacion": null,
+  "campos_operativos": {
+    "responsables": "PENDIENTE_PI3",
+    "personas_horas": "PENDIENTE_PI3",
+    "sprints": "PENDIENTE_PI3",
+    "recursos": "PENDIENTE_PI3",
+    "hitos": "PENDIENTE_PI3",
+    "riesgos_formales": "PENDIENTE_PI3",
+    "arquitectura_global": "PENDIENTE_PI3"
+  },
+  "techo_previsto": null,
+  "hipotesis_techo": null
+}

@@ -16,15 +16,15 @@ En este módulo pasarás de comprender AulaFlow 1.0 a proponer, contratar, plani
 | PI1 | Comprender contexto y legado; dossier y G0 | 9 h | [Abrir PI1](PI1/README.md) |
 | PI2 | Acordar contrato, alcance, viabilidad y diseño inicial | 15 h | [Abrir PI2](PI2/README.md) |
 | PI3 | Conectar fases, arquitectura, actividades, recursos y riesgos | 15 h | [Abrir PI3](PI3/README.md) |
-| PI4 | Ejecución iterativa y seguimiento | 31 h | Incorporación posterior |
-| PI5 | Validación y aceptación | 18 h | Incorporación posterior |
-| PI6 | Entrega, defensa y mantenimiento | 12 h | Incorporación posterior |
+| [PI4](PI4/README.md) | Ejecución iterativa y seguimiento | 31 h | [Abrir PI4](PI4/README.md) |
+| [PI5](PI5/README.md) | Validación y aceptación | 18 h | [Abrir PI5](PI5/README.md) |
+| [PI6](PI6/README.md) | Entrega, defensa y mantenimiento | 12 h | [Abrir PI6](PI6/README.md) |
 
-Esta primera publicación contiene los materiales ordinarios de PI1–PI3. PI4–PI6 se incorporarán tras el cierre final de su producción. El módulo completo tiene 100 horas; la disponibilidad de un archivo no cambia la fecha de trabajo indicada en AULES.
+Esta edición contiene los materiales ordinarios de PI1–PI6. El módulo completo tiene 100 horas; la disponibilidad de un archivo no cambia la fecha de trabajo indicada en AULES.
 
 ## Descarga y uso
 
-[Descargar la biblioteca completa en ZIP](https://github.com/JaumeLloret/2DAM-PI2-Recursos/archive/refs/heads/main.zip). También puedes usar **Code → Download ZIP** en GitHub. Descomprime el paquete conservando las carpetas: así funcionan los enlaces relativos entre guías, plantillas y datos.
+[Descargar la biblioteca completa en ZIP](https://github.com/JaumeLloret/2DAM-PI2-Recursos/archive/refs/heads/work/publicacion-final-2026-27.zip). También puedes usar **Code → Download ZIP** en GitHub. Descomprime el paquete conservando las carpetas: así funcionan los enlaces relativos entre guías, plantillas y datos.
 
 ```bash
 git clone https://github.com/JaumeLloret/2DAM-PI2-Recursos.git
@@ -46,4 +46,16 @@ AULES organiza fechas definitivas, apertura de actividades, cuestionarios, entre
 
 Para PI1, consulta [cómo acceder al legado AulaFlow 1.0](ACCESO_AULAFLOW_1_0.md). Ante un error, conserva unidad, archivo, paso, resultado esperado y mensaje saneado. Usa el canal de ayuda del curso para incidencias personales.
 
-Edición de recursos: **2026.09.08 · PI1–PI3 + contrato operativo v1.0**. [Procedencia y versión](PROCEDENCIA.md).
+Edición de recursos: **2026.09.08 · PI1–PI6 + contrato operativo v1.0**. [Procedencia y versión](PROCEDENCIA.md).
+
+## Unidades finales · edición 2026/27
+
+- [PI4](PI4/README.md)
+- [PI5](PI5/README.md)
+- [PI6](PI6/README.md)
+
+La actualización completa está disponible en esta rama de revisión. La PR requiere fusión docente; los candidatos Moodle fijan el commit público comprobado y conservan ZIP locales completos.
+
+## Preparación de la prueba global
+
+[Formato y entrenamiento público diferente](Preparacion_global/GUIA_PRUEBA_GLOBAL_PI2.md). Las pruebas oficiales se distribuyen por el docente en su momento; estos materiales permiten preparar el formato.

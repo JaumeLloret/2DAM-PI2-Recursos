@@ -1,0 +1,45 @@
+{
+  "mode": "TRAIN",
+  "catalogue_status": "NO_APLICA_TRAIN",
+  "baseline": "TRAIN-B1",
+  "currency": "EUR_SIMULADOS",
+  "people": [
+    {
+      "id": "PERSONA-A",
+      "planned_hours": 12,
+      "rate": 18,
+      "spent_hours": 14,
+      "remaining_hours": 4
+    },
+    {
+      "id": "PERSONA-B",
+      "planned_hours": 8,
+      "rate": 15,
+      "spent_hours": 7,
+      "remaining_hours": 3
+    },
+    {
+      "id": "PERSONA-C",
+      "planned_hours": 6,
+      "rate": 12,
+      "spent_hours": 5,
+      "remaining_hours": 2
+    }
+  ],
+  "one_off_cost": 30,
+  "reserve_fraction": 0.1,
+  "contract_tasks": [],
+  "aulatokens": null,
+  "events": [
+    "TRAIN-V1",
+    "TRAIN-V2",
+    "TRAIN-V3",
+    "TRAIN-V4",
+    "TRAIN-V5",
+    "TRAIN-V6",
+    "TRAIN-V7",
+    "TRAIN-V8",
+    "TRAIN-V9",
+    "TRAIN-V10"
+  ]
+}

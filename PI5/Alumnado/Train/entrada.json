@@ -1,0 +1,36 @@
+{
+  "mode": "TRAIN",
+  "catalog_status": "NOT_APPLICABLE_TRAIN",
+  "contract_refs": [],
+  "aulatokens": null,
+  "cuts": {
+    "C1": {
+      "planned": 8,
+      "executed": 6,
+      "passed": 5,
+      "critical_open": 1,
+      "user_without_help": 2,
+      "user_started": 3,
+      "user_expected": 3
+    },
+    "C2": {
+      "planned": 8,
+      "executed": 8,
+      "passed": 8,
+      "critical_open": 0,
+      "user_without_help": 0,
+      "user_started": 0,
+      "user_expected": 3
+    }
+  },
+  "requirements": [
+    "TRAIN-01",
+    "TRAIN-02",
+    "TRAIN-03",
+    "TRAIN-04"
+  ],
+  "evidence_environment": "SYNTHETIC_CASE_LOCAL_MODEL",
+  "decision": "PROPUESTA_TRAIN",
+  "real_acceptance": false,
+  "gate_satisfied": false
+}

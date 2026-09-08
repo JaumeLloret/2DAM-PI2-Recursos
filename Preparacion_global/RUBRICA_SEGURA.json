@@ -1,0 +1,261 @@
+{
+  "schema": 1,
+  "module": "PI2",
+  "purpose": "MARKING_GUIDE_GLOBAL_SAFE",
+  "official_case_included": false,
+  "max_score": 100,
+  "exam_grade_scale": 10,
+  "criterion_weights_are_module_weights": false,
+  "criteria": [
+    {
+      "id": "C01",
+      "ce": "RA1.c",
+      "title": "Necesidades justificadas",
+      "max_score": 7,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin necesidad identificable"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "deseos sin dato o prioridad"
+        },
+        {
+          "label": "Suficiente",
+          "description": "necesidades ancladas; prioridad parcialmente razonada"
+        },
+        {
+          "label": "Sólido",
+          "description": "dos necesidades y priorización con impacto y evidencia"
+        }
+      ]
+    },
+    {
+      "id": "C02",
+      "ce": "RA1.f",
+      "title": "Características derivadas",
+      "max_score": 8,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin característica derivada"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "lista de tecnologías sin relación"
+        },
+        {
+          "label": "Suficiente",
+          "description": "dos características pertinentes, alguna ambigüedad"
+        },
+        {
+          "label": "Sólido",
+          "description": "características verificables y supuestos distinguidos"
+        }
+      ]
+    },
+    {
+      "id": "C03",
+      "ce": "RA2.d",
+      "title": "Objetivo y alcance",
+      "max_score": 12,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "no delimita objetivo/alcance"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "asume todo pedido como aprobado"
+        },
+        {
+          "label": "Suficiente",
+          "description": "objetivo e IN/OUT plausibles; cambio incompleto"
+        },
+        {
+          "label": "Sólido",
+          "description": "objetivo verificable, límites y cambio explícito pendientes"
+        }
+      ]
+    },
+    {
+      "id": "C04",
+      "ce": "RA2.i",
+      "title": "Calidad prevista y evidencia",
+      "max_score": 13,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "no define controles"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "“hacer tests” sin objeto ni prueba"
+        },
+        {
+          "label": "Suficiente",
+          "description": "controles de aspectos críticos, evidencia parcial"
+        },
+        {
+          "label": "Sólido",
+          "description": "controles, versión/evidencia y relación con aceptación"
+        }
+      ]
+    },
+    {
+      "id": "C05",
+      "ce": "RA3.a",
+      "title": "Secuencia y dependencias",
+      "max_score": 10,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin secuencia"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "rompe dependencia o deja entrega antes del ensayo"
+        },
+        {
+          "label": "Suficiente",
+          "description": "secuencia plausible con un intervalo sin demostrar"
+        },
+        {
+          "label": "Sólido",
+          "description": "plan verificable o imposibilidad demostrada y alternativa"
+        }
+      ]
+    },
+    {
+      "id": "C06",
+      "ce": "RA3.f",
+      "title": "Personas, capacidad y tiempo",
+      "max_score": 10,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin asignación"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "suma horas totales ignorando días/habilitación"
+        },
+        {
+          "label": "Suficiente",
+          "description": "límites principales considerados, ajuste parcial"
+        },
+        {
+          "label": "Sólido",
+          "description": "asignación completa y recursos/cuellos justificados"
+        }
+      ]
+    },
+    {
+      "id": "C07",
+      "ce": "RA3.g",
+      "title": "Valoración económica",
+      "max_score": 10,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin valoración"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "costes sin base o alternativas mezcladas"
+        },
+        {
+          "label": "Suficiente",
+          "description": "coste principal correcto con omisión menor"
+        },
+        {
+          "label": "Sólido",
+          "description": "valoración completa y comparación sin financiación inventada"
+        }
+      ]
+    },
+    {
+      "id": "C08",
+      "ce": "RA4.b",
+      "title": "Indicadores interpretables",
+      "max_score": 10,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin indicador"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "porcentajes sin universo o mezcla versiones"
+        },
+        {
+          "label": "Suficiente",
+          "description": "indicadores calculados con alguna limitación omitida"
+        },
+        {
+          "label": "Sólido",
+          "description": "universos, cálculos, umbral, acción y límites explícitos"
+        }
+      ]
+    },
+    {
+      "id": "C09",
+      "ce": "RA4.e",
+      "title": "Procedimiento de cambios",
+      "max_score": 10,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin procedimiento"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "cambia contrato por mensaje o retrospectivamente"
+        },
+        {
+          "label": "Suficiente",
+          "description": "registra impacto/decisión; seguimiento incompleto"
+        },
+        {
+          "label": "Sólido",
+          "description": "CR íntegro, aprobación pendiente, rebaseline y seguimiento"
+        }
+      ]
+    },
+    {
+      "id": "C10",
+      "ce": "RA4.g",
+      "title": "Cumplimiento y aceptación",
+      "max_score": 10,
+      "description": "Valorar evidencia individual pertinente al criterio, trazable y coherente con los datos del caso asignado; no calificar la extensión.",
+      "levels": [
+        {
+          "label": "Sin evidencia",
+          "description": "sin contraste"
+        },
+        {
+          "label": "Insuficiente",
+          "description": "acepta por DONE/PR/opinión/versión vieja"
+        },
+        {
+          "label": "Suficiente",
+          "description": "detecta faltas y no aceptación; matriz incompleta"
+        },
+        {
+          "label": "Sólido",
+          "description": "matriz completa, dictamen y cadena de evidencia recuperable"
+        }
+      ]
+    }
+  ]
+}

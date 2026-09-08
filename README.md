@@ -55,3 +55,7 @@ Edición de recursos: **2026.09.08 · PI1–PI6 + contrato operativo v1.0**. [Pr
 - [PI6](PI6/README.md)
 
 La actualización completa está disponible en esta rama de revisión. La PR requiere fusión docente; los candidatos Moodle fijan el commit público comprobado y conservan ZIP locales completos.
+
+## Preparación de la prueba global
+
+[Formato y entrenamiento público diferente](Preparacion_global/GUIA_PRUEBA_GLOBAL_PI2.md). Las pruebas oficiales se distribuyen por el docente en su momento; estos materiales permiten preparar el formato.

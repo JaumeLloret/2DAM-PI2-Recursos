@@ -1,0 +1,221 @@
+{
+  "caso": "ReservaLab",
+  "naturaleza": "TRAIN",
+  "catalogo_real": false,
+  "at_son_horas": false,
+  "calendario": {
+    "tipo": "FICTICIO",
+    "inicio": "2030-04-01",
+    "fin": "2030-04-12",
+    "dias_laborables": 10,
+    "unidad": "jornada ficticia; horas de proyecto, no minutos de clase"
+  },
+  "contrato": [
+    {
+      "id": "TRAIN-01",
+      "resultado": "Inventario compartido consultable",
+      "aceptacion": "Dos perfiles ven los mismos kits TRAIN-K1, TRAIN-K2 y TRAIN-K3 y su disponibilidad."
+    },
+    {
+      "id": "TRAIN-02",
+      "resultado": "Reserva sin conflicto de kit disponible",
+      "aceptacion": "Primera reserva válida se confirma; otra incompatible se rechaza sin duplicar."
+    },
+    {
+      "id": "TRAIN-03",
+      "resultado": "Cancelación con historial",
+      "aceptacion": "La cancelación libera la franja y deja referencia de lo ocurrido."
+    },
+    {
+      "id": "TRAIN-04",
+      "resultado": "Importación del inventario CSV disponible",
+      "aceptacion": "Tres registros sintéticos válidos se incorporan sin duplicar claves; fila inválida identificada."
+    }
+  ],
+  "personas": [
+    {
+      "id": "PERSONA-A",
+      "capacidad_h": 20,
+      "reserva_h": 4,
+      "habilidad": "frontera/servicio",
+      "por_dia": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "7": 2,
+        "8": 2,
+        "9": 2,
+        "10": 2
+      }
+    },
+    {
+      "id": "PERSONA-B",
+      "capacidad_h": 14,
+      "reserva_h": 4,
+      "habilidad": "cliente/revisión/integración",
+      "por_dia": {
+        "2": 2,
+        "3": 2,
+        "4": 2,
+        "5": 2,
+        "6": 2,
+        "9": 2,
+        "10": 2
+      }
+    },
+    {
+      "id": "PERSONA-C",
+      "capacidad_h": 6,
+      "reserva_h": 2,
+      "habilidad": "datos/importación",
+      "por_dia": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      }
+    }
+  ],
+  "estimaciones": [
+    {
+      "id": "TRAIN-A01",
+      "descripcion": "Preparar muestra y permisos",
+      "contrato": [
+        "TRAIN-01"
+      ],
+      "depende": [],
+      "esfuerzo_h": 2,
+      "permiso": []
+    },
+    {
+      "id": "TRAIN-A02",
+      "descripcion": "Acordar y preparar frontera de inventario",
+      "contrato": [
+        "TRAIN-01"
+      ],
+      "depende": [
+        "TRAIN-A01"
+      ],
+      "esfuerzo_h": 4,
+      "permiso": [
+        "TRAIN-P01"
+      ]
+    },
+    {
+      "id": "TRAIN-A03",
+      "descripcion": "Preparar consulta de cliente",
+      "contrato": [
+        "TRAIN-01"
+      ],
+      "depende": [
+        "TRAIN-A02"
+      ],
+      "esfuerzo_h": 4,
+      "permiso": [
+        "TRAIN-P01"
+      ]
+    },
+    {
+      "id": "TRAIN-A04",
+      "descripcion": "Preparar reserva sin conflicto",
+      "contrato": [
+        "TRAIN-02"
+      ],
+      "depende": [
+        "TRAIN-A02"
+      ],
+      "esfuerzo_h": 6,
+      "permiso": [
+        "TRAIN-P01"
+      ]
+    },
+    {
+      "id": "TRAIN-A05",
+      "descripcion": "Preparar cancelación trazable",
+      "contrato": [
+        "TRAIN-03"
+      ],
+      "depende": [
+        "TRAIN-A04"
+      ],
+      "esfuerzo_h": 4,
+      "permiso": [
+        "TRAIN-P01"
+      ]
+    },
+    {
+      "id": "TRAIN-A06",
+      "descripcion": "Preparar importación de muestra",
+      "contrato": [
+        "TRAIN-04"
+      ],
+      "depende": [
+        "TRAIN-A02"
+      ],
+      "esfuerzo_h": 4,
+      "permiso": [
+        "TRAIN-P02"
+      ]
+    },
+    {
+      "id": "TRAIN-A07",
+      "descripcion": "Contraste integrado de salidas",
+      "contrato": [
+        "TRAIN-01",
+        "TRAIN-02",
+        "TRAIN-03",
+        "TRAIN-04"
+      ],
+      "depende": [
+        "TRAIN-A03",
+        "TRAIN-A05",
+        "TRAIN-A06"
+      ],
+      "esfuerzo_h": 4,
+      "permiso": [
+        "TRAIN-P01",
+        "TRAIN-P02"
+      ]
+    }
+  ],
+  "recursos": [
+    {
+      "id": "TRAIN-R01",
+      "nombre": "entorno sintético de equipo",
+      "capacidad_simultanea": 3
+    },
+    {
+      "id": "TRAIN-R02",
+      "nombre": "tablet de contraste",
+      "capacidad_simultanea": 1
+    }
+  ],
+  "permisos": [
+    {
+      "id": "TRAIN-P01",
+      "necesidad": "entorno de demo",
+      "solicitante": "PERSONA-B",
+      "autorizador": "Responsable ficticio laboratorio",
+      "disponible_dia": 2,
+      "evidencia": "Confirmación ficticia incluida en briefing",
+      "estado": "CONFIRMADO"
+    },
+    {
+      "id": "TRAIN-P02",
+      "necesidad": "uso de CSV sintético",
+      "solicitante": "PERSONA-C",
+      "autorizador": "Responsable ficticio de datos",
+      "disponible_dia": 4,
+      "evidencia": "Solo TRAIN-K1–TRAIN-K3; sin datos personales",
+      "estado": "CONFIRMADO"
+    }
+  ],
+  "restricciones": [
+    "La tablet TRAIN-R02 solo puede ser utilizada por una actividad por jornada.",
+    "No se contrata aviso externo, exportación ni panel; permanecen OUT.",
+    "Hito final al cerrar la jornada 10; puede proponerse cambio razonado, conservando baseline anterior.",
+    "Horas estimadas no provienen de UA_TRAIN de PI2 ni de AulaTokens."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "caso": "ReservaLab",
+  "naturaleza": "FICTICIO_NO_AULAFLOW",
+  "unidad": "UA_TRAIN",
+  "limite": 18,
+  "catalogo_real": false,
+  "tareas": [
+    {
+      "id": "TRAIN-01",
+      "descripcion": "Inventario compartido consultable",
+      "ua": 4,
+      "obligatoria": true,
+      "depende": []
+    },
+    {
+      "id": "TRAIN-02",
+      "descripcion": "Reserva sin conflicto de kit disponible",
+      "ua": 5,
+      "obligatoria": true,
+      "depende": [
+        "TRAIN-01"
+      ]
+    },
+    {
+      "id": "TRAIN-03",
+      "descripcion": "Cancelación con historial",
+      "ua": 2,
+      "obligatoria": true,
+      "depende": [
+        "TRAIN-02"
+      ]
+    },
+    {
+      "id": "TRAIN-04",
+      "descripcion": "Importación del inventario CSV disponible",
+      "ua": 3,
+      "obligatoria": false,
+      "depende": [
+        "TRAIN-01"
+      ]
+    },
+    {
+      "id": "TRAIN-05",
+      "descripcion": "Aviso por correo mediante servicio externo",
+      "ua": 3,
+      "obligatoria": false,
+      "depende": [
+        "TRAIN-02"
+      ],
+      "condicion": "Acceso y financiación por confirmar"
+    },
+    {
+      "id": "TRAIN-06",
+      "descripcion": "Exportación CSV de reservas autorizada",
+      "ua": 2,
+      "obligatoria": false,
+      "depende": [
+        "TRAIN-02"
+      ],
+      "exclusion": "salida_csv"
+    },
+    {
+      "id": "TRAIN-07",
+      "descripcion": "Descarga equivalente del mismo CSV",
+      "ua": 2,
+      "obligatoria": false,
+      "depende": [
+        "TRAIN-02"
+      ],
+      "exclusion": "salida_csv"
+    },
+    {
+      "id": "TRAIN-08",
+      "descripcion": "Panel estadístico agregado",
+      "ua": 4,
+      "obligatoria": false,
+      "depende": [
+        "TRAIN-02"
+      ]
+    }
+  ],
+  "financiacion": {
+    "moneda": "EUR",
+    "precios": "FICTICIOS_CON_IMPUESTOS_INCLUIDOS",
+    "periodo_meses": 3,
+    "alta_unica": 12,
+    "alojamiento_mes": 8,
+    "copia_mes": 2,
+    "reserva_hipotetica": 10,
+    "caja_confirmada": 20,
+    "correo_opcional_mes": 18
+  }
+}

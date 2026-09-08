@@ -1,0 +1,6 @@
+clave,nombre,disponible
+TRAIN-K1,Kit audio,true
+TRAIN-K2,Kit sensor,true
+TRAIN-K3,Kit cámara,false
+TRAIN-K2,Duplicado intencional,true
+,Registro sin clave,true

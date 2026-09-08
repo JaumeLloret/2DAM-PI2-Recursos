@@ -1,0 +1,39 @@
+{
+  "mode": "TRAIN",
+  "fixture": "EJERCICIO_CON_DEFECTOS",
+  "release": "CANDIDATO_DOCUMENTAL_C2",
+  "files": [
+    {
+      "id": "TRAIN-FILE-01",
+      "path": "docs/uso.md",
+      "sha256": "13e963c5a7c78a980a564469d7033a7f8f829f475d839cce4bfc6391a725d073",
+      "role": "REVISOR_TRAIN"
+    },
+    {
+      "id": "TRAIN-FILE-02",
+      "path": "docs/operacion-v1.md",
+      "sha256": "5d239a5d5eac551f4da1fbca885f0a39f9a34afba9758bc2d00995559c51841b",
+      "role": "REVISOR_TRAIN"
+    },
+    {
+      "id": "TRAIN-FILE-03",
+      "path": "docs/release_notes.md",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+      "role": "REVISOR_TRAIN"
+    },
+    {
+      "id": "TRAIN-FILE-04",
+      "path": "docs/known_issues.md",
+      "sha256": "e2c6ccd1a9572d3d2c09bb93687bfd82415567e49ee63c15241a012050d0f87b",
+      "role": "REVISOR_TRAIN"
+    },
+    {
+      "id": "TRAIN-FILE-05",
+      "path": "docs/trazabilidad.md",
+      "sha256": "ab363ccd9ae02755be02eb78fe66d7acfa7065ef0f3ac47dc727bbbd4a3ff729",
+      "role": "REVISOR_TRAIN"
+    }
+  ],
+  "real_acceptance": false,
+  "aulatokens": null
+}

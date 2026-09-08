@@ -1,0 +1,13 @@
+{
+  "mode": "REAL",
+  "catalogue_status": "PENDIENTE_CATALOGO",
+  "catalogue_hash": null,
+  "contract_version": null,
+  "contract_tasks": [],
+  "aulatokens": null,
+  "baselines": [],
+  "incidents": [],
+  "changes": [],
+  "gates": [],
+  "observations": []
+}

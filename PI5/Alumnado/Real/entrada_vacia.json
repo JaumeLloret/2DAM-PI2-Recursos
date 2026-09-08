@@ -1,0 +1,11 @@
+{
+  "mode": "REAL",
+  "catalog_status": "PENDIENTE_CATALOGO",
+  "contract_refs": [],
+  "aulatokens": null,
+  "cuts": {},
+  "requirements": [],
+  "decision": "PENDIENTE_CATALOGO",
+  "real_acceptance": false,
+  "gate_satisfied": false
+}

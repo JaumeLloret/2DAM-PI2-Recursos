@@ -1,0 +1,13 @@
+{
+  "mode": "REAL",
+  "calendar_status": "PENDIENTE_CALENDARIO_RETORNO",
+  "catalog_status": "PENDIENTE_CATALOGO",
+  "exclusive_criteria": [],
+  "contract_refs": [],
+  "aulatokens": null,
+  "real_acceptance": false,
+  "gate_satisfied": false,
+  "defense_status": "PENDIENTE_DEFENSA",
+  "company_evidence": [],
+  "return_dates": []
+}

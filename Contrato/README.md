@@ -20,8 +20,8 @@ Si faltan integrantes, hay duplicados o el reparto no está completo, resuelve e
 ## Identificación de la copia
 
 - Archivo: `AulaFlow_2_0_Contrato_operativo_v1.0.xlsx`.
-- Tamaño: 113.541 bytes; 19 hojas.
-- SHA-256: `23789638d150024643850665f54a3f880d1bd1d0da2ac5db1d25538d81be9ccc`.
+- Tamaño: 113.582 bytes; 19 hojas.
+- SHA-256: `6a87c5a4571450555c779c3dfe14723cf06ad9b17be43275870a5317e91459b6`.
 
 La copia conserva las 264 tareas y sus campos; las mejoras operativas se concentran en datos del equipo, reparto y controles. Las referencias históricas v0.4 de auditoría permanecen identificadas como historia. El libro ha sido verificado; falta contrastar su apertura y uso en el entorno real del alumnado.
 

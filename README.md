@@ -34,6 +34,8 @@ Los documentos Markdown se pueden leer en GitHub o en un editor. Los JSON/CSV so
 
 ## Contrato y trabajo del equipo
 
+Ya está disponible el [contrato operativo v1.0 en Excel](Contrato/AulaFlow_2_0_Contrato_operativo_v1.0.xlsx), con el catálogo auténtico y controles para 2–4 integrantes. Lee la [guía de uso](Contrato/README.md) antes de completar tu copia privada.
+
 El contrato concreta el alcance y sus criterios de aceptación. Las tareas reales se toman del catálogo auténtico; los ejemplos TRAIN sirven para aprender el proceso. Un contrato preparado todavía necesita negociación y confirmación, y una tarea entregada necesita revisión antes de considerarse aceptada. Consulta [catálogo y contrato](CATALOGO_Y_CONTRATO.md).
 
 Esta biblioteca proporciona materiales para estudiar. Cada equipo trabaja en su propio espacio autorizado. Los datos cumplimentados, firmas, atribución individual, evidencias personales y feedback se entregan con los permisos acordados. Los ejercicios de recuperación, variantes de verificación y soluciones se facilitan por sus canales restringidos.
@@ -44,4 +46,4 @@ AULES organiza fechas definitivas, apertura de actividades, cuestionarios, entre
 
 Para PI1, consulta [cómo acceder al legado AulaFlow 1.0](ACCESO_AULAFLOW_1_0.md). Ante un error, conserva unidad, archivo, paso, resultado esperado y mensaje saneado. Usa el canal de ayuda del curso para incidencias personales.
 
-Edición de recursos: **2026.09.08 · PI1–PI3**. [Procedencia y versión](PROCEDENCIA.md).
+Edición de recursos: **2026.09.08 · PI1–PI3 + contrato operativo v1.0**. [Procedencia y versión](PROCEDENCIA.md).

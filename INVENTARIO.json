@@ -606,9 +606,9 @@
     {
       "path": "Contrato/AulaFlow_2_0_Contrato_operativo_v1.0.xlsx",
       "artifact_version": "v1.0",
-      "sha256": "23789638d150024643850665f54a3f880d1bd1d0da2ac5db1d25538d81be9ccc",
-      "bytes": 113541,
-      "git_blob": "ebf6f89c10dd7d269d828bfbc4687fe384de9eee",
+      "sha256": "6a87c5a4571450555c779c3dfe14723cf06ad9b17be43275870a5317e91459b6",
+      "bytes": 113582,
+      "git_blob": "abbed6dc6c5d727aabde4e4f617a7e7f27bd55c2",
       "kind": "copia_contractual_sin_equipo_ni_aceptaciones",
       "verified_tasks": 264,
       "verified_task_cells": 5544,

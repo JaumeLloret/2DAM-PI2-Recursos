@@ -6,7 +6,7 @@ Equipo [código]; interlocución docente [en entorno autorizado]; objeto: evoluc
 Baseline v1.0: **264 tareas / 572 AT de oferta / 96 tareas obligatorias / 150 AT obligatorios**. IDs/AT congelados. Solo ACEPTADA valida AT.
 
 ## 2. Alcance y anexos
-E03 objetivos/IN-OUT [revisión]; E05 PENDIENTE_CATALOGO; total contratado DESCONOCIDO; techo previsto NO DETERMINABLE hasta cotejo e hipótesis explícita E05, sin calificación; AT validados NO ACREDITADOS por esta plantilla.
+E03 objetivos/IN-OUT [revisión]; E05 PENDIENTE_SELECCION_EQUIPO; total contratado DESCONOCIDO; techo previsto NO DETERMINABLE hasta cotejo e hipótesis explícita E05, sin calificación; AT validados NO ACREDITADOS por esta plantilla.
 E06 aceptación; E07 viabilidad/condiciones; E08 financiación; E09–E10 diseño/calidad; E11 decisiones/cambios.
 
 Núcleo obligatorio íntegro. Opcionales/avanzadas seleccionadas son compromiso. Alternativas solo si catálogo lo declara. Sin doble conteo entre especificación, tarea, colaboración y puerta.
@@ -37,7 +37,3 @@ Antes de confirmar: revisión/negociación. Después: CR prospectivo con motivo,
 CR ordinario no reescribe IDs/AT o histórico aceptado. Cambiar catálogo exige decisión/versionado competente.
 
 Negociación EN_PREPARACION; condiciones [catálogo/G0/datos]; confirmación/fecha [vacías]; aceptación de integrantes/interlocución [solo tras acto real en entorno autorizado]. Entregar este archivo no confirma automáticamente el contrato.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

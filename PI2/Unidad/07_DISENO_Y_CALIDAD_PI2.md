@@ -17,7 +17,7 @@ Elabora al menos **dos fichas funcionales distintas**:
 5. Excepción y respuesta esperada.
 6. Aceptación observable.
 7. Decisión, fuente/supuesto y límite.
-8. Control de calidad y referencia auténtica cuando exista catálogo.
+8. Control de calidad y referencia auténtica del catálogo auténtico.
 
 No hace falta diagrama. Si lo usas, que explique un comportamiento y tenga texto equivalente, sin arquitectura global encubierta.
 
@@ -66,10 +66,6 @@ Sin impartir su implementación, considerar también:
 Seleccionar controles pertinentes según disponibilidad/activación. No exige ejecutar pruebas, montar infraestructura ni entregar documentación operativa adicional durante PI2.
 
 ## Revisión previa a negociar
-Recorre necesidad → objetivo → IN → tarea auténtica o pendiente → aceptación → ficha → control → evidencia. Si falta catálogo, conserva la unión pendiente; no inventes un ID.
+Recorre necesidad → objetivo → IN → tarea auténtica o pendiente → aceptación → ficha → control → evidencia. Si falta la selección del equipo, conserva la referencia pendiente y abre el catálogo; no inventes un ID.
 
 Otra persona encuentra una contradicción con efecto: OUT niega objetivo; aceptación exige una opción excluida; condición omitida; coste desconocido tratado como cero; ficha solo con títulos. La persona autora decide, corrige y registra razón. Revisión entre iguales no sustituye confirmación docente o autenticidad individual.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

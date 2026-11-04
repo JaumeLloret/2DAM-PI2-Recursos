@@ -10,8 +10,4 @@ Formula 3–5 objetivos: beneficiario + mejora + resultado observable. OBJ-* son
 IN: [resultados comprometibles, obligaciones/opciones según catálogo y condiciones E07].
 OUT: [exclusiones con razón; no eliminar núcleo ni confundir planificación pendiente con función excluida].
 
-Comprobar: objetivos observables; OUT compatible con obligaciones; condición de lo no demostrado; vertical preservado; unión con E05 sin inventar IDs. Referencias de tarea: PENDIENTE_CATALOGO hasta cotejo. Las filas de objetivos no generan AT.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)
+Comprobar: objetivos observables; OUT compatible con obligaciones; condición de lo no demostrado; vertical preservado; unión con E05 sin inventar IDs. Referencias de tarea: PENDIENTE_SELECCION_EQUIPO hasta cotejo. Las filas de objetivos no generan AT.

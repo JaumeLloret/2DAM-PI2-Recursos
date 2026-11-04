@@ -10,7 +10,7 @@ Propuesta [completar]; objeción [completar]; concesión [completar]; obligació
 Referencia documental/revisión anterior [completar, no ID tarea].
 Hecho nuevo/fuente [completar].
 Momento [antes de cambiar baseline].
-Tareas auténticas afectadas PENDIENTE_CATALOGO.
+Tareas auténticas afectadas PENDIENTE_SELECCION_EQUIPO.
 Alcance/aceptación antes → después [completar].
 AT antes → después DESCONOCIDOS hasta cotejo; valores de cada ID congelados.
 Viabilidad/financiación/calidad/documentación [efecto].
@@ -32,7 +32,3 @@ Traslada preguntas abiertas con su evidencia; no las resuelvas aquí como planif
 | [Qué decisión necesita contrastarse en la arquitectura global] | [completar] | PENDIENTE_PI3 |
 
 Cada pregunta conserva la necesidad o límite detectado en PI2, sin fijar personas, horas, sprints o soluciones globales.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

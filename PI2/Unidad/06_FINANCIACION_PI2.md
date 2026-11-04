@@ -42,8 +42,4 @@ Al menos tres necesidades pertinentes, incluyendo una recurrente o justificació
 
 Comunicar subtotal conocido, desconocidos imprescindibles, cobertura confirmada/candidata y déficit calculable. Si faltan datos, escribir «total no determinable» y consulta necesaria. Se valora reconocer la necesidad, no fabricar una cifra.
 
-Los importes de ReservaLab son cerrados y ficticios. **No son precios actuales de AulaFlow**; no trasladarlos al contrato real.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)
+Los importes de ReservaLab/Audioteca son cerrados y ficticios. **No son precios actuales de AulaFlow**; no trasladarlos al contrato real.

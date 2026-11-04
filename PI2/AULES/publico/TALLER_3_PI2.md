@@ -1,24 +1,23 @@
-# Taller 3 · Negociación contractual
-20/10/2026, 18:35–19:30, Europe/Madrid. **55 min**.
-Traer: E03–E10 y propuesta de concesión; anexo auténtico o PENDIENTE_CATALOGO. Resultado: Acta E11 con objeción, concesión y revisiones.
+# Práctica 3 · Negociación contractual
+
+20/10/2026 · 18:35–19:30 · Europe/Madrid. Misión de **45 min efectivos**, dentro de la franja de 55 min, con 10 min de margen.
+
+**Para qué:** Un acta con objeción, concesión y documentos afectados.
+
+**Necesitas antes:** propuesta de alcance, viabilidad, financiación y fichas.
 
 | Tramo | Min | Acción |
 |---|---:|---|
-| Entrada | 5 | Identifica obligación que debe preservarse. |
-| Propuesta y objeción | 10 | Escucha objeción docente y delimita qué cambia. |
-| Negociación y entrevistas | 25 | Negocia una opción/condición con evidencia; cinco entrevistas mientras los equipos aplican la pauta. |
-| Acta de concesiones | 10 | Registra efecto en alcance, viabilidad, financiación, aceptación y calidad. |
-| Salida | 5 | Distingue revisión de propuesta y CR de baseline confirmada. |
-| **Total** | **55** | |
+| Entrada | 5 | Localiza la revisión de propuesta y una condición aún pendiente. |
+| Propuesta | 5 | Redacta una concesión posible preservando obligaciones e IDs/AT. |
+| Negociación | 25 | En pareja o individualmente, contrasta alcance, aceptación, cobertura y ficha. En sesión el docente dispone de cinco entrevistas focalizadas. |
+| Acta | 5 | Objeción: una opción necesita financiación no confirmada. Decide mantenerla condicionada o retirarla, y explica el efecto. |
+| Salida | 5 | Registra decisión, referencias actualizadas y preguntas abiertas para PI3. |
+| **Total** | **45** | |
 
-## Equivalencia por ausencia
-Sustituye la sesión, no la duplica. Sigue los mismos tramos/minutos de la tabla: entrada escrita, lectura del ejemplo/consigna distribuida, contraste individual documentado, decisión y salida. Si necesitas objeción/consigna, solicítala al docente. Texto accesible o audio breve con transcripción; no grabar a otras personas.
+## Misión autónoma equivalente
+Sustituye la sesión, no la duplica: sigue los cinco tramos, tiempos y consignas de la tabla. Lee el ejemplo/hecho nuevo escrito; responde a la objeción indicada; revisa tu documento y conserva antes/después con una razón. El bloque colectivo se transforma en contraste escrito propio, utilizando las preguntas de la pauta, sin necesitar otra persona ni una explicación oral. Si tienes una revisión de un compañero, puedes utilizarla; no es requisito.
 
-Conserva decisión, fuente, objeción y corrección; la explicación individual se verifica en taller/cita, no solo con declaración escrita.
-Las citas exteriores sustituyen cinco minutos de revisión individual de fase 10. La comprobación en directo/cita permanece; la prueba presencial global es distinta.
+**Comprueba:** otra persona puede localizar tu decisión, fuente, objeción y corrección. No afirmes aceptación real por completar el ejercicio. **Conserva:** decisión y revisión en el paquete; la respuesta personal se envía por el canal reservado. Texto accesible o audio breve con transcripción, sin grabar a otras personas.
 
-No inventar IDs/AT si falta catálogo. Operativo PENDIENTE_PI3 y G1 EN_PROGRESO.
-
----
-
-[Índice de PI2](../../README.md) · [Inicio del módulo](../../../README.md)
+La explicación individual se puede verificar en sesión o cita acordada; el trabajo escrito no finge esa observación. La cita sustituye minutos de revisión individual ya previstos. Pide ayuda indicando la fuente, la decisión y el bloqueo. G1 sigue EN_PROGRESO; planificación detallada PENDIENTE_PI3. La prueba presencial global permanece separada.

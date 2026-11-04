@@ -13,7 +13,3 @@ Resume contexto/necesidad en un párrafo. Recupera al menos tres hechos pertinen
 Incluir baseline, evidencia PI1 y fuente oficial pertinente al estudio. IA no sustituye fuente.
 
 Necesidad prioritaria: [quién necesita qué, por qué y con qué indicio]. Usuarios: [roles funcionales, sin asignar personas del equipo]. Incertidumbre: [qué afirmación cambiaría alcance/viabilidad/financiación/calidad y cómo comprobarla].
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

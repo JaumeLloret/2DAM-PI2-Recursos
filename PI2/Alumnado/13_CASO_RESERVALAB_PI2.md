@@ -1,5 +1,5 @@
 # ReservaLab · caso de entrenamiento
-**Ficticio, sin AT reales.** IDs TRAIN-* y UA_TRAIN solo pertenecen a este ejercicio. [JSON del caso](13_CASO_RESERVALAB_PI2.json). Nunca copiar al anexo AulaFlow.
+**Ficticio, sin AT reales.** IDs TRAIN-* y UA_TRAIN solo pertenecen a este ejercicio. JSON del caso (datos íntegros del caso expuestos aquí; el JSON de control no se descarga). Nunca copiar al anexo AulaFlow.
 
 ## Encargo e información cerrada
 Un laboratorio comunitario presta kits de electrónica y usa copias distintas de una hoja.
@@ -37,7 +37,3 @@ Datos ficticios, euros con impuestos incluidos; tres meses de observación econ�
 Fase 2: núcleo/dependencias/duplicado. Fase 3: objetivos, IN/OUT, selección ≤18 y dos aceptaciones fuertes. Fase 5: entorno/importación/correo con dictamen y condición. Fase 7: necesidad y déficit base/con correo. Talleres: selección, condición y concesión. El aprendizaje se transfiere a las fichas reales sin entregar otro paquete TRAIN completo.
 
 Autocomprobación: ¿núcleo íntegro?, ¿duplicado?, ¿comodidad desplaza necesidad?, ¿correo probado?, ¿cobertura confirmada?, ¿cancelación repetida verificable? Justifica antes de feedback.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

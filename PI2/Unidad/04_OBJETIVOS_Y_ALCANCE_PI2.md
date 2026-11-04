@@ -4,7 +4,7 @@
 2. Escribe beneficiario + mejora + resultado observable.
 3. Delimita resultados IN y exclusiones OUT con razón.
 4. Contrasta obligaciones y condiciones de viabilidad.
-5. Une con tareas del catálogo auténtico cuando esté disponible.
+5. Une con tareas del catálogo auténtico al preparar la selección.
 6. Define situación, acción, resultado, excepción y evidencia.
 7. Revisa contradicciones antes de negociar.
 
@@ -33,10 +33,6 @@ No aparecen IDs/AT reales. El ejemplo enseña el razonamiento y no resuelve el c
 Una exclusión legítima recorta una opción sin negar obligaciones. Una exclusión ilegítima elimina el núcleo para cuadrar una suma. «Pendiente de PI3» describe planificación posterior, no una función OUT.
 
 ## Transferencia
-En E03 redacta 3–5 objetivos desde E02. En E06 desarrolla al menos tres resultados con caso positivo y límite. Comprueba objetivo → IN → referencia auténtica o PENDIENTE_CATALOGO → aceptación → evidencia prevista. No rellenes un ID ficticio para cerrar la cadena visualmente.
+En E03 redacta 3–5 objetivos desde E02. En E06 desarrolla al menos tres resultados con caso positivo y límite. Comprueba objetivo → IN → referencia auténtica o PENDIENTE_SELECCION_EQUIPO → aceptación → evidencia prevista. No rellenes un ID ficticio para cerrar la cadena visualmente.
 
 En negociación conserva qué cambió, por qué y qué documentos se revisan. Después de una baseline confirmada, CR prospectivo. El contrato preparado no constituye planificación detallada.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

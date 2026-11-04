@@ -48,8 +48,4 @@ G1 EN_PROGRESO: contrato/alcance no equivalen a planificación detallada. PI2 no
 En plazo: ordinaria. Justificada: nueva fecha sin penalización automática. ≤72 h sin justificar: tardía sin rebaja automática, posible pérdida del mismo ciclo de feedback. >72 h: recuperación. Sin entrega al cierre: sin evidencia/CE pendiente.
 
 No máximo 5 o cero permanente por tardanza. No importar CE de planificación/seguimiento para penalizar PI2; cualquier efecto requiere relación curricular real y explícita.
-Recuperación por CE con evidencia distinta, asignada de forma restringida en AULES. Si falta presencial global, otra prueba presencial; documento/entrevista remota no sustituyen esa condición.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)
+Recuperación (consulta en AULES) por CE con evidencia distinta. Si falta presencial global, otra prueba presencial; documento/entrevista remota no sustituyen esa condición.

@@ -1,32 +1,21 @@
-# E05 · Anexo auténtico pendiente
-**PENDIENTE_CATALOGO en esta plantilla vacía.** El catálogo auténtico ha sido recuperado y cotejado por el docente: 264 tareas/572 AT y 96 obligatorias/150 AT. Se entrega por el canal autorizado del curso. Hasta recibir esa fuente y cotejar la selección del equipo, no rellenes las filas con una reconstrucción ni con TRAIN.
+# Selección auténtica del equipo
+El **CATÁLOGO DISPONIBLE** permite preparar una propuesta. No significa **SELECCIÓN DEL EQUIPO REALIZADA** ni **CONTRATO ACEPTADO**. Descarga «PI2 · Catálogo AulaFlow 2.0» y abre el libro auténtico. La fuente ya está cotejada: 264 tareas, 572 AT de oferta; 96 obligatorias y 150 AT obligatorios (PI II 25, AD 70, PMDM 25, DI 30). IDs y AT permanecen congelados.
 
-Nombre histórico adoptado: Presupuesto_AulaFlow_2_0_auditado_v0.4.xlsx; el docente identificará distribución como baseline v1.0, procedencia y huella. No confundir con matriz curricular.
+La copia operativa para 2–4 integrantes está en «PI2 · Plantillas del paquete contractual». Trabaja en una copia; no alteres el catálogo. El anexo de tu equipo empieza vacío y sin aceptar: registra una selección auténtica antes de pedir confirmación; no copies TRAIN. Lo aún no seleccionado, negociado o aceptado debe quedar expresamente pendiente. Los totales de un equipo sin selección son desconocidos, no cero.
 
-## Cuando se suministre
-1. Comprobar identidad/revisión y acceso desde vista estudiante.
-2. Copiar literalmente ID, descripción, tipo y AT de filas auténticas.
-3. Incluir las 96 obligatorias/150 AT; verificar dependencias/alternativas.
-4. Añadir opciones justificadas, cada ID una vez, valores congelados.
-5. Relacionar objetivos, aceptación y condiciones; operativo PENDIENTE_PI3.
-6. Cotejar totales con libro y solicitar confirmación humana; conservar revisión.
+## Cómo preparar el anexo
+1. Abre «15 Vertical mínimo» y localiza las 96 tareas obligatorias en las hojas de PI II, AD, PMDM y DI. Coteja los 150 AT del núcleo completo, no solo los 25 de PI II.
+2. Lee por cada tarea ID, descripción, tipo, AT y dependencia. Una alternativa textual no se convierte automáticamente en obligación de incluir todas sus ramas.
+3. Conserva todas las obligatorias y justifica las opciones según objetivos y viabilidad. Copia literalmente IDs y AT del libro, cada ID una única vez.
+4. Enlaza objetivo, aceptación observable y condición de viabilidad. La mera selección no activa ACEPTADA ni otorga AT.
+5. Revisa el total con el libro y solicita confirmación humana. Registra qué se ha propuesto, qué se ha negociado y qué falta aceptar.
 
-## Esquema, sin filas de tarea real
-Columnas: ID canónico; descripción literal; tipo canónico; AT literal; objetivo; criterio/evidencia; condición; selección; estado; referencia/revisión de fuente.
-Responsables/personas-horas/sprint/recursos/hitos: PENDIENTE_PI3. Selección no activa ACEPTADA.
+## Plantilla vacía
+Columnas: ID auténtico; descripción literal; tipo; AT literal; objetivo; aceptación/evidencia; condición; selección; estado; revisión de fuente.
 
-Libro/huella no disponibles; filas no registradas; total contratado desconocido; núcleo/duplicados/dependencias pendientes de cotejo; AT aceptados no acreditados por este anexo.
+Filas: aún no seleccionadas. Total contratado: DESCONOCIDO. Confirmación: PENDIENTE. Núcleo cotejado por el equipo: PENDIENTE. AT validados: NO ACREDITADOS por esta plantilla. El original está disponible; estas reservas describen el trabajo real pendiente del equipo.
 
-## Resumen de alcance y techo previsto
-- Total AT contratado: DESCONOCIDO, pendiente de libro auténtico.
-- Tamaño real del equipo: [registrar solo en entorno autorizado].
-- Hipótesis para una previsión: PENDIENTE; no es aceptación ni reparto operativo.
-- Techo previsto: NO DETERMINABLE con los datos disponibles; no es calificación.
+Responsables, personas/horas, sprints, recursos, hitos, riesgos formales y arquitectura global: PENDIENTE_PI3. No completar esa planificación aquí.
 
-Después del cotejo, puede mostrarse un escenario orientativo que suponga todas las tareas contratadas aceptadas y contribución equilibrada. En ese supuesto, el valor de referencia es total contratado / tamaño real y se consulta la tabla de techos. La aceptación real y la contribución personal pueden reducirlo; el escenario no otorga AT actuales, no asigna personas y no sustituye el registro prospectivo de PI3. Mantener siempre el núcleo obligatorio.
-
-El [JSON](05_ANEXO_CONTRATADO_PI2.json) usa null para desconocidos. Es plantilla, no presupuesto cerrado ni generador de catálogo. No copiar TRAIN.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)
+## Techo previsto
+Cuando haya selección y tamaño real del equipo, puede mostrarse un escenario orientativo con todas las tareas seleccionadas aceptadas y contribución equilibrada. Total contratado dividido por tamaño real permite consultar la tabla de techos; no es calificación ni aceptación actual. Mientras falte selección, techo NO DETERMINABLE. No copiar ReservaLab/TRAIN.

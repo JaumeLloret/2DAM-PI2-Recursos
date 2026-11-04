@@ -14,7 +14,7 @@ Recorrido principal [pasos concretos numerados].
 Excepción y respuesta esperada [completar].
 Aceptación E06 [observable].
 Decisión/fundamento/límite [completar].
-Control E10 [referencia]; tarea PENDIENTE_CATALOGO.
+Control E10 [referencia]; tarea PENDIENTE_SELECCION_EQUIPO.
 
 ## Ficha funcional 2 · [título distinto]
 Objetivo/escenario y fuente [completar].
@@ -24,10 +24,6 @@ Recorrido principal [pasos concretos numerados].
 Excepción y respuesta esperada [completar].
 Aceptación E06 [observable].
 Decisión/fundamento/límite [completar].
-Control E10 [referencia]; tarea PENDIENTE_CATALOGO.
+Control E10 [referencia]; tarea PENDIENTE_SELECCION_EQUIPO.
 
 Diseño funcional inicial, sin arquitectura global, API completa, esquema global de datos o implementación. Esquema accesible opcional si ayuda a comprender.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

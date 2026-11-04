@@ -1,7 +1,9 @@
 # Laboratorio · Paquete de contrato y diseño inicial de AulaFlow 2.0
 El equipo presentará una propuesta contrastable, negociable y defendible desde PI1 y baseline v1.0. Producto E01–E12, sin implementar AulaFlow 2.0.
 
-La selección se hace por tarea auténtica. Hasta recibir el XLSX auténtico distribuido por el docente y cotejar la selección, filas/totales sin confirmar, PENDIENTE_CATALOGO. Se completa el resto; no inventar presupuesto ni convertir hipótesis en obligación aprobada.
+El **CATÁLOGO DISPONIBLE** permite preparar una propuesta. No significa **SELECCIÓN DEL EQUIPO REALIZADA** ni **CONTRATO ACEPTADO**. Descarga «PI2 · Catálogo AulaFlow 2.0» y abre el libro auténtico. La fuente ya está cotejada: 264 tareas, 572 AT de oferta; 96 obligatorias y 150 AT obligatorios (PI II 25, AD 70, PMDM 25, DI 30). IDs y AT permanecen congelados.
+
+La copia operativa para 2–4 integrantes está en «PI2 · Plantillas del paquete contractual». Trabaja en una copia; no alteres el catálogo. El anexo de tu equipo empieza vacío y sin aceptar: registra una selección auténtica antes de pedir confirmación; no copies TRAIN. Lo aún no seleccionado, negociado o aceptado debe quedar expresamente pendiente. Los totales de un equipo sin selección son desconocidos, no cero.
 
 | Momento presupuestado | Evidencia | Resultado |
 |---|---|---|
@@ -32,11 +34,7 @@ No son puntos por fila; son una muestra manejable para observar competencia. No 
 ## Entrega y devolución
 Una entrega de equipo en AULES: documento navegable o carpeta/ZIP Markdown/PDF accesible según configuración docente; evidencia individual reservada. Revisiones/enlaces coherentes y acceso autorizado. Evitar capturas de texto inaccesibles. Contratos reales no se rellenan en este repositorio docente.
 
-Plazo fijado después del taller 4 con margen para los quince minutos de revisión/entrega ya previstos. Docente devuelve CE/evidencia, corrección, autenticidad, estado contractual y G1. Sin AT por mera entrega ni cierre de todo RA2.
+Entrega recomendada el 01/11/2026 a las 23:59; cierre el 02/11/2026 a las 23:59, Europe/Madrid. Los quince minutos posteriores al taller 4 ya están presupuestados. Docente devuelve CE/evidencia, corrección, autenticidad, estado contractual y G1. Sin AT por mera entrega ni cierre de todo RA2.
 
 ## Comprobación final
 Localiza una cadena completa y explica qué cambia si falla una dependencia: objetivo/IN-OUT, dictamen, financiación, aceptación, ficha y control. Distingue AT afirmables y desconocidos, y campos PI3. Debes poder responder sin agente.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

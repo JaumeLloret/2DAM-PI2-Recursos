@@ -56,7 +56,3 @@ Migración aquí significa compatibilidad y resultado de conservación; no ETL d
 - «Riesgo medio»: describir supuesto y consecuencia, sin matriz formal de riesgos.
 
 Practica primero con ReservaLab; transfiere el método con honestidad sobre lo desconocido.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

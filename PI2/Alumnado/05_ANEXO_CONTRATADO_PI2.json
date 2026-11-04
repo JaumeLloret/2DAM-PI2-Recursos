@@ -1,9 +1,9 @@
 {
   "evidencia": "E05",
   "baseline": "AulaFlow 2.0 v1.0",
-  "estado": "PENDIENTE_CATALOGO",
-  "catalogo_fuente": null,
-  "catalogo_huella": null,
+  "estado": "PENDIENTE_SELECCION_EQUIPO",
+  "catalogo_fuente": "Presupuesto_AulaFlow_2_0_auditado_v0.4.xlsx",
+  "catalogo_huella": "9b617b20982bcba613f963552888ec9a1367557568355e60691ed352f58f8f3e",
   "filas": [],
   "total_at_contratado": null,
   "at_validados": null,

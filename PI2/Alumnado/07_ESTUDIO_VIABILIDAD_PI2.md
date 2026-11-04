@@ -12,7 +12,3 @@ Aplica el [método](../Unidad/05_VIABILIDAD_PI2.md) a cinco aspectos pertinentes
 - Efecto en aceptación/financiación/diseño/calidad: [referencias].
 
 Síntesis: [qué se puede proponer, qué está condicionado, qué se rechaza y qué hecho cambiaría el dictamen]. Sin arquitectura global, recursos, personas/horas o sprints. Otro módulo no garantiza automáticamente la dependencia.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

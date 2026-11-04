@@ -14,7 +14,3 @@ Una recurrente o justificación de ausencia. Medio disponible sin pago adicional
 Subtotal conocido [operación/límites]; desconocidos imprescindibles [lista]; necesidad total [calculable/rango/no determinable]; cobertura confirmada [fundamento]; financiación adicional [operación si posible]; sensibilidad [coste/cobertura cambia]; decisión [confirmar/condicionar/recortar opción/elevar incompatibilidad].
 
 No convertir AT a euros, restar ayudas no concedidas o copiar precios ficticios de TRAIN.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

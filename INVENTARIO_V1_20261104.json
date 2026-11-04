@@ -1,0 +1,493 @@
+{
+  "date": "2026-11-04",
+  "source_ref": "work/v1-consolidacion-20261104",
+  "source_files": [
+    {
+      "path": "PI2/AULES/publico/TALLER_1_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/AULES/publico/TALLER_1_PI2.md",
+      "source_blob": "b8288a9e27de167a1e534c9560b5498992c317c4",
+      "published_blob": "b8288a9e27de167a1e534c9560b5498992c317c4",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/AULES/publico/TALLER_2_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/AULES/publico/TALLER_2_PI2.md",
+      "source_blob": "61fc21a75bef0168d72a929d103dd22149323ecb",
+      "published_blob": "61fc21a75bef0168d72a929d103dd22149323ecb",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/AULES/publico/TALLER_3_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/AULES/publico/TALLER_3_PI2.md",
+      "source_blob": "c14f905f57342c227fb15edcb83d0030426d17bd",
+      "published_blob": "c14f905f57342c227fb15edcb83d0030426d17bd",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/AULES/publico/TALLER_4_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/AULES/publico/TALLER_4_PI2.md",
+      "source_blob": "5f570c40e9bc3b1a1906bfca97b5319e07ac5040",
+      "published_blob": "5f570c40e9bc3b1a1906bfca97b5319e07ac5040",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/00_INDICE_ALUMNADO_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/00_INDICE_ALUMNADO_PI2.md",
+      "source_blob": "cd03c0a1423d1412eb723f704142245b88f4962e",
+      "published_blob": "2b7fa49882dc3f9e79866b2b118ed19a8b2256a4",
+      "adapted_navigation": true
+    },
+    {
+      "path": "PI2/Alumnado/01_PAQUETE_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/01_PAQUETE_PI2.md",
+      "source_blob": "9432884bb3d535dfc6f38b674a9f850d9f3736d8",
+      "published_blob": "9432884bb3d535dfc6f38b674a9f850d9f3736d8",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/02_BRIEFING_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/02_BRIEFING_PI2.md",
+      "source_blob": "d241ed4d55f6621716bbd861b0000dc3d7895447",
+      "published_blob": "d241ed4d55f6621716bbd861b0000dc3d7895447",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/03_OBJETIVOS_Y_ALCANCE_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/03_OBJETIVOS_Y_ALCANCE_PI2.md",
+      "source_blob": "cbba099bcb77a3210e1e933b23e5a1c2843041a3",
+      "published_blob": "cbba099bcb77a3210e1e933b23e5a1c2843041a3",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/04_CONTRATO_CORTO_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/04_CONTRATO_CORTO_PI2.md",
+      "source_blob": "346700204e095d8c344f91386f16af0dc4b3fb22",
+      "published_blob": "346700204e095d8c344f91386f16af0dc4b3fb22",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/05_ANEXO_CONTRATADO_PI2.json",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/05_ANEXO_CONTRATADO_PI2.json",
+      "source_blob": "416b0c04254c10e57bc3b5534b122d3b48dffb5a",
+      "published_blob": "416b0c04254c10e57bc3b5534b122d3b48dffb5a",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/05_ANEXO_CONTRATADO_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/05_ANEXO_CONTRATADO_PI2.md",
+      "source_blob": "6a176aea5dfad70fac32972b27145b3d5fba3566",
+      "published_blob": "6a176aea5dfad70fac32972b27145b3d5fba3566",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/06_ACEPTACION_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/06_ACEPTACION_PI2.md",
+      "source_blob": "6bafe03a8dda8b78d12ec0645f4c2b16021619de",
+      "published_blob": "6bafe03a8dda8b78d12ec0645f4c2b16021619de",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/07_ESTUDIO_VIABILIDAD_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/07_ESTUDIO_VIABILIDAD_PI2.md",
+      "source_blob": "38173da756440040fc6daf4247292aa5dd4bee39",
+      "published_blob": "38173da756440040fc6daf4247292aa5dd4bee39",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/08_NECESIDADES_FINANCIACION_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/08_NECESIDADES_FINANCIACION_PI2.md",
+      "source_blob": "292e01a12f71bb7ddcedc666068f3f15deaa3cd6",
+      "published_blob": "292e01a12f71bb7ddcedc666068f3f15deaa3cd6",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/09_DOCUMENTACION_DISENO_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/09_DOCUMENTACION_DISENO_PI2.md",
+      "source_blob": "6fa535c99adebabbb32e2f9488a3b57c87db2b8c",
+      "published_blob": "6fa535c99adebabbb32e2f9488a3b57c87db2b8c",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/10_CALIDAD_PREVISTA_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/10_CALIDAD_PREVISTA_PI2.md",
+      "source_blob": "5bee6abc042d258fde1ca909968da1c05d873f84",
+      "published_blob": "5bee6abc042d258fde1ca909968da1c05d873f84",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/11_DECISIONES_CR_Y_PREGUNTAS_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/11_DECISIONES_CR_Y_PREGUNTAS_PI2.md",
+      "source_blob": "8c4cef3f3b889022d374ca2d1798001ad672c5d5",
+      "published_blob": "8c4cef3f3b889022d374ca2d1798001ad672c5d5",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/12_ENTREGA_Y_AUTENTICIDAD_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/12_ENTREGA_Y_AUTENTICIDAD_PI2.md",
+      "source_blob": "a5720f7f0707ae2f7f8a7d7328e2b4b859aa0c50",
+      "published_blob": "a5720f7f0707ae2f7f8a7d7328e2b4b859aa0c50",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/13_CASO_RESERVALAB_PI2.json",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/13_CASO_RESERVALAB_PI2.json",
+      "source_blob": "6ea9422f13368d938df11d6d0aa286ef739807ad",
+      "published_blob": "6ea9422f13368d938df11d6d0aa286ef739807ad",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Alumnado/13_CASO_RESERVALAB_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Alumnado/13_CASO_RESERVALAB_PI2.md",
+      "source_blob": "d4c29825280996fb0263dc244d46e5c8d0d51fdc",
+      "published_blob": "d4c29825280996fb0263dc244d46e5c8d0d51fdc",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/01_GUIA_ALUMNADO_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/01_GUIA_ALUMNADO_PI2.md",
+      "source_blob": "dc4fba282085cb90514c08a0f72a0560e1695074",
+      "published_blob": "9a474bc829942d14fb5a3556bc38d2d0abf6e297",
+      "adapted_navigation": true
+    },
+    {
+      "path": "PI2/Unidad/02_CONTENIDOS_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/02_CONTENIDOS_PI2.md",
+      "source_blob": "a5a97c755f9aff976b87d2d8e73ea26d601b5200",
+      "published_blob": "a5a97c755f9aff976b87d2d8e73ea26d601b5200",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/03_BASELINE_Y_AULATOKENS_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/03_BASELINE_Y_AULATOKENS_PI2.md",
+      "source_blob": "8b25bb88e7f48649783a6447ba5dbf0b87f2417a",
+      "published_blob": "8b25bb88e7f48649783a6447ba5dbf0b87f2417a",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/04_OBJETIVOS_Y_ALCANCE_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/04_OBJETIVOS_Y_ALCANCE_PI2.md",
+      "source_blob": "6367a6d071b1e15ac13aa81af5d8285e2e954727",
+      "published_blob": "6367a6d071b1e15ac13aa81af5d8285e2e954727",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/05_VIABILIDAD_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/05_VIABILIDAD_PI2.md",
+      "source_blob": "4c1eb0a6ab1cc97f41a0fbd335a08b6663910f89",
+      "published_blob": "4c1eb0a6ab1cc97f41a0fbd335a08b6663910f89",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/06_FINANCIACION_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/06_FINANCIACION_PI2.md",
+      "source_blob": "376b72eca33475b3c18ddfe4e00632b382461804",
+      "published_blob": "376b72eca33475b3c18ddfe4e00632b382461804",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/07_DISENO_Y_CALIDAD_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/07_DISENO_Y_CALIDAD_PI2.md",
+      "source_blob": "b78d252698eae48e3b99b652b851ac2105fafcf6",
+      "published_blob": "b78d252698eae48e3b99b652b851ac2105fafcf6",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/08_EJEMPLOS_Y_ENTRENAMIENTO_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/08_EJEMPLOS_Y_ENTRENAMIENTO_PI2.md",
+      "source_blob": "7e559b6daa8e6b177c5291d1c136d91a5bc110a1",
+      "published_blob": "7e559b6daa8e6b177c5291d1c136d91a5bc110a1",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/09_LABORATORIO_CONTRACTUAL_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/09_LABORATORIO_CONTRACTUAL_PI2.md",
+      "source_blob": "391c67f59344804fe734f9646277af33c62f753f",
+      "published_blob": "391c67f59344804fe734f9646277af33c62f753f",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/10_EVALUACION_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/10_EVALUACION_PI2.md",
+      "source_blob": "43be80e2c0064b12f2450bd6a640d1bd43a1a5fe",
+      "published_blob": "788ef89329538d9dfbb36e45b8e2690c8f2897e7",
+      "adapted_navigation": true
+    },
+    {
+      "path": "PI2/Unidad/12_AMPLIACION_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/12_AMPLIACION_PI2.md",
+      "source_blob": "5527bbef0a7e21810c7f6da0718b442da4b0d51b",
+      "published_blob": "5527bbef0a7e21810c7f6da0718b442da4b0d51b",
+      "adapted_navigation": false
+    },
+    {
+      "path": "PI2/Unidad/13_REFERENCIAS_PI2.md",
+      "source": "40 - Proyecto Intermodular II/Unidades/PI2/Unidad/13_REFERENCIAS_PI2.md",
+      "source_blob": "f775c7a6cdc7ce07f00ff1f0b0b0dd16586f6a86",
+      "published_blob": "f775c7a6cdc7ce07f00ff1f0b0b0dd16586f6a86",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/EVALUACION_COMUN.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/EVALUACION_COMUN.md",
+      "source_blob": "49621d8b9da9c302f2d0741d091c148e2694c3a8",
+      "published_blob": "49621d8b9da9c302f2d0741d091c148e2694c3a8",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI3/publico/00_EMPIEZA_AQUI.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI3/publico/00_EMPIEZA_AQUI.md",
+      "source_blob": "b598227cd46dc1271039b017d508e08c0d870cb4",
+      "published_blob": "b598227cd46dc1271039b017d508e08c0d870cb4",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI3/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI3/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source_blob": "3a0ce9043ddf46cdfd7ac01c425ce6d39bc2dd0f",
+      "published_blob": "3a0ce9043ddf46cdfd7ac01c425ce6d39bc2dd0f",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI3/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI3/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source_blob": "fc4cfe6962ad869173ee31261c19b6957b58650b",
+      "published_blob": "fc4cfe6962ad869173ee31261c19b6957b58650b",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI3/publico/03_PLANTILLA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI3/publico/03_PLANTILLA.md",
+      "source_blob": "2eb49e295ab0ba9c08132d9c133db347437ce78d",
+      "published_blob": "2eb49e295ab0ba9c08132d9c133db347437ce78d",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI3/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI3/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source_blob": "d6aa3e1dda5fe3b2b0178fecca89a796f3c15edb",
+      "published_blob": "d6aa3e1dda5fe3b2b0178fecca89a796f3c15edb",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI3/publico/05_EVALUACION_Y_AYUDA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI3/publico/05_EVALUACION_Y_AYUDA.md",
+      "source_blob": "766fdb4cc6b053951decfc5025d702bd24f793be",
+      "published_blob": "766fdb4cc6b053951decfc5025d702bd24f793be",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI4/publico/00_EMPIEZA_AQUI.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI4/publico/00_EMPIEZA_AQUI.md",
+      "source_blob": "25cb76cbb7ff5f5e35f9fefd2fa00c113b29f118",
+      "published_blob": "25cb76cbb7ff5f5e35f9fefd2fa00c113b29f118",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI4/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI4/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source_blob": "d011be57d073c5d5b22fbfd71857aceafc6529ca",
+      "published_blob": "d011be57d073c5d5b22fbfd71857aceafc6529ca",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI4/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI4/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source_blob": "6e595d4e63c05263aac9ca7148bedf36b87e3832",
+      "published_blob": "6e595d4e63c05263aac9ca7148bedf36b87e3832",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI4/publico/03_PLANTILLA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI4/publico/03_PLANTILLA.md",
+      "source_blob": "0c1a54b20a8c5b51947a9e1871aedde38277152f",
+      "published_blob": "0c1a54b20a8c5b51947a9e1871aedde38277152f",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI4/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI4/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source_blob": "a74c74c606c503be0e03fdbbeedc755187dae92b",
+      "published_blob": "a74c74c606c503be0e03fdbbeedc755187dae92b",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI4/publico/05_EVALUACION_Y_AYUDA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI4/publico/05_EVALUACION_Y_AYUDA.md",
+      "source_blob": "167f13b5bf0d15a9814c0c41fdfc6702d24dc1e1",
+      "published_blob": "167f13b5bf0d15a9814c0c41fdfc6702d24dc1e1",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI5/publico/00_EMPIEZA_AQUI.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI5/publico/00_EMPIEZA_AQUI.md",
+      "source_blob": "e31751b6786031b0084e77023b060ced6ad42b9d",
+      "published_blob": "e31751b6786031b0084e77023b060ced6ad42b9d",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI5/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI5/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source_blob": "845f8d5433af2259257d59e534f7049eb2029a26",
+      "published_blob": "845f8d5433af2259257d59e534f7049eb2029a26",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI5/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI5/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source_blob": "71543980de0d6428270bca73a1d4f779eb2816df",
+      "published_blob": "71543980de0d6428270bca73a1d4f779eb2816df",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI5/publico/03_PLANTILLA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI5/publico/03_PLANTILLA.md",
+      "source_blob": "197217b27033f3b4dd19c8e741dac009b3d065ec",
+      "published_blob": "197217b27033f3b4dd19c8e741dac009b3d065ec",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI5/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI5/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source_blob": "d85249e65d6ff6c917b680cc5a7f5760fedde88e",
+      "published_blob": "d85249e65d6ff6c917b680cc5a7f5760fedde88e",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI5/publico/05_EVALUACION_Y_AYUDA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI5/publico/05_EVALUACION_Y_AYUDA.md",
+      "source_blob": "f9a5408bc751f4aeba6389eb24325c43b418ca64",
+      "published_blob": "f9a5408bc751f4aeba6389eb24325c43b418ca64",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/00_EMPIEZA_AQUI.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/00_EMPIEZA_AQUI.md",
+      "source_blob": "3992dea9963697dfd686058b2c73996f33282288",
+      "published_blob": "3992dea9963697dfd686058b2c73996f33282288",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/01_APRENDE_CON_UN_EJEMPLO.md",
+      "source_blob": "14f9987889fd9254f794e3798a085639b6523387",
+      "published_blob": "14f9987889fd9254f794e3798a085639b6523387",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/02_TRABAJA_EN_TU_PROYECTO.md",
+      "source_blob": "76c5cd04f91b34c1501c372e4ba033a60d1dd615",
+      "published_blob": "76c5cd04f91b34c1501c372e4ba033a60d1dd615",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/03_PLANTILLA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/03_PLANTILLA.md",
+      "source_blob": "d4595ee3188ce852f11d2eaa04c16629e3b62dd9",
+      "published_blob": "d4595ee3188ce852f11d2eaa04c16629e3b62dd9",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/04_TALLERES_Y_ALTERNATIVAS.md",
+      "source_blob": "81068dc703c54431f1488dcb0d74f703103f39c5",
+      "published_blob": "81068dc703c54431f1488dcb0d74f703103f39c5",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/05_EVALUACION_Y_AYUDA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/05_EVALUACION_Y_AYUDA.md",
+      "source_blob": "35aedad35d54e73e5fbc8dad8e92a5b5b0b465e8",
+      "published_blob": "35aedad35d54e73e5fbc8dad8e92a5b5b0b465e8",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/CONTINUIDAD.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/CONTINUIDAD.md",
+      "source_blob": "2832ca130d6297f1c039ad888fd1025b081e6f27",
+      "published_blob": "2832ca130d6297f1c039ad888fd1025b081e6f27",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/ENTREGA.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/ENTREGA.md",
+      "source_blob": "824d9c6db9abcb8d6f5e91a7288876135c26dcad",
+      "published_blob": "824d9c6db9abcb8d6f5e91a7288876135c26dcad",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/FICHA_REPRODUCIBILIDAD.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/FICHA_REPRODUCIBILIDAD.md",
+      "source_blob": "693a4470f1f0eb76a5d8b8fa43062162cd9e2155",
+      "published_blob": "693a4470f1f0eb76a5d8b8fa43062162cd9e2155",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/INCIDENCIAS.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/INCIDENCIAS.md",
+      "source_blob": "5c52d06f088081c9d5103845253d386d0393848c",
+      "published_blob": "5c52d06f088081c9d5103845253d386d0393848c",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/INSTRUCCIONES.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/INSTRUCCIONES.md",
+      "source_blob": "89f011ed8581703cfe524974d28f76120a687c2d",
+      "published_blob": "89f011ed8581703cfe524974d28f76120a687c2d",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/REVISION.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/REVISION.md",
+      "source_blob": "e5a9c2ca580a0fc2bacd36ff9a212b916619fe9e",
+      "published_blob": "e5a9c2ca580a0fc2bacd36ff9a212b916619fe9e",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/estado_PI5.json",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/estado_PI5.json",
+      "source_blob": "c8c09786aeaf2fff1f9802ea56889db234a301bf",
+      "published_blob": "c8c09786aeaf2fff1f9802ea56889db234a301bf",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/tarjetas.json",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/tarjetas.json",
+      "source_blob": "5640459c44b13035d84ffcd1233446f06021f373",
+      "published_blob": "5640459c44b13035d84ffcd1233446f06021f373",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/PI6/publico/ejemplo/tarjetas_otro_corte.json",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/PI6/publico/ejemplo/tarjetas_otro_corte.json",
+      "source_blob": "7cd6da861436a09a7c70d1fef31b13cbd835ea6d",
+      "published_blob": "7cd6da861436a09a7c70d1fef31b13cbd835ea6d",
+      "adapted_navigation": false
+    },
+    {
+      "path": "Curso_practico_2026_27/VISTA_DEL_CURSO.md",
+      "source": "40 - Proyecto Intermodular II/Curso_practico_2026_27/VISTA_DEL_CURSO.md",
+      "source_blob": "405c6ab4517491adfb76eae114aa360fb9eafe30",
+      "published_blob": "405c6ab4517491adfb76eae114aa360fb9eafe30",
+      "adapted_navigation": false
+    }
+  ],
+  "navigation_adaptations": [
+    {
+      "file": "PI2/Alumnado/00_INDICE_ALUMNADO_PI2.md",
+      "url": "../Unidad/11_RECUPERACION_PI2.md"
+    },
+    {
+      "file": "PI2/Unidad/01_GUIA_ALUMNADO_PI2.md",
+      "url": "11_RECUPERACION_PI2.md"
+    },
+    {
+      "file": "PI2/Unidad/10_EVALUACION_PI2.md",
+      "url": "11_RECUPERACION_PI2.md"
+    }
+  ],
+  "student_data_exported": false,
+  "restricted_or_teacher_material_exported": false,
+  "source_commit": "f4bbd0a8b08575d0f8472557ee8d2749f08edefc",
+  "local_links_checked": 103
+}

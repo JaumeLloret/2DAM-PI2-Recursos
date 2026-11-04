@@ -1,0 +1,11 @@
+{
+  "tipo": "DATOS_FICTICIOS_PARA_DETECTAR_MEZCLA",
+  "version": "OTRO-CORTE",
+  "tarjetas": [
+    {
+      "id": "DEMO-ANTERIOR",
+      "titulo": "Dato de otra revisión",
+      "estado": "pendiente"
+    }
+  ]
+}

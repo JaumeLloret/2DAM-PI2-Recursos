@@ -1,0 +1,16 @@
+{
+  "tipo": "DATOS_FICTICIOS",
+  "tarjetas": [
+    {
+      "id": "DEMO-01",
+      "titulo": "Revisar las instrucciones",
+      "estado": "pendiente"
+    },
+    {
+      "id": "DEMO-02",
+      "titulo": "Comprobar la versión",
+      "estado": "en_revision"
+    }
+  ]
+}
+

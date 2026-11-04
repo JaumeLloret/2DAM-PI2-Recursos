@@ -32,7 +32,9 @@ El contrato académico hace explícitos objeto, alcance, condiciones, aceptació
 
 Una propuesta se puede revisar antes de confirmar. Después de confirmar baseline, un cambio requiere CR prospectivo: motivo, impacto, propuesta, aprobación y revisión efectiva. No cambiar silenciosamente el pasado. La aprobación docente de un documento no acepta por adelantado una implementación.
 
-El XLSX contractual auténtico ha sido recuperado y cotejado por el docente; se distribuye por el canal autorizado del curso. Si aún no lo has recibido, no puedes reconstruir filas desde descripciones funcionales. E05 conserva PENDIENTE_CATALOGO, filas vacías y totales desconocidos. Continúa el resto de la propuesta; la unión con tareas/AT se verifica al distribuir el libro.
+El **CATÁLOGO DISPONIBLE** permite preparar una propuesta. No significa **SELECCIÓN DEL EQUIPO REALIZADA** ni **CONTRATO ACEPTADO**. Descarga «PI2 · Catálogo AulaFlow 2.0» y abre el libro auténtico. La fuente ya está cotejada: 264 tareas, 572 AT de oferta; 96 obligatorias y 150 AT obligatorios (PI II 25, AD 70, PMDM 25, DI 30). IDs y AT permanecen congelados.
+
+La copia operativa para 2–4 integrantes está en «PI2 · Plantillas del paquete contractual». Trabaja en una copia; no alteres el catálogo. El anexo de tu equipo empieza vacío y sin aceptar: registra una selección auténtica antes de pedir confirmación; no copies TRAIN. Lo aún no seleccionado, negociado o aceptado debe quedar expresamente pendiente. Los totales de un equipo sin selección son desconocidos, no cero.
 
 ## 5. AulaTokens: alcance aceptado
 El baseline v1.0 declara 264 tareas / 572 AT de oferta / 96 tareas obligatorias / 150 AT obligatorios. IDs/AT congelados. Solo ACEPTADA valida AT. La cantidad contratada, realizada o con PR verde no sustituye aceptación.
@@ -81,7 +83,3 @@ El acta conserva propuesta, objeción, concesión, razón, efectos y decisión p
 Cada persona debe localizar una decisión, explicar su fuente, reconocer su límite y modificarla sin agente. Una buena defensa no recita todo el paquete: responde al hecho nuevo y propaga sus efectos. Se observa con E12, microcambio y explicación focalizada; el historial o la declaración de ayuda no bastan solos.
 
 Primarios PI2: RA2.a,b,d,g,h,i. RA2 completo sigue pendiente de c,e,f en PI3. G1 puede tener componente contractual establecido tras confirmación real, pero permanece EN_PROGRESO hasta planificación. **Contrato/alcance no equivalen a planificación detallada.**
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

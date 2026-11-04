@@ -1,15 +1,7 @@
-# Procedencia y versión de esta biblioteca
+# Procedencia · consolidación v1 · 04/11/2026
 
-Edición **2026.09.08 · curso 2026–27**. Publicación del material ordinario de PI1, PI2 y PI3 aprobado para el alumnado. El docente mantiene las fuentes y su revisión curricular. Los documentos conservan sus referencias oficiales y fechas de consulta; las fechas históricas no se presentan como una nueva comprobación de normativa o herramientas.
+Material ordinario seleccionado de las fuentes docentes vigentes. Se conserva el código de ejemplos/starters; la adaptación convierte enlaces del vault y destinos de AULES para la lectura pública. No se publican soluciones docentes, recuperación restringida, bancos con respuestas, contratos cumplimentados ni registros de alumnos.
 
-La selección respeta las listas de publicación de cada unidad. Para esta biblioteca se han preparado índices y enlaces locales, se han sustituido destinos privados por instrucciones de acceso y se ha actualizado la información de distribución del catálogo. Los ejercicios de recuperación, bancos con respuestas, variantes individuales, soluciones y registros reales no forman parte del paquete.
+El inventario identifica cada archivo fuente y su blob, junto con el blob público y las adaptaciones. Las copias completas de Docent que conservan las ediciones manuales permanecen en el repositorio docente privado. Este espejo no certifica igualdad binaria con el AULES oficial; allí se siguen las actividades y fechas vigentes. Los materiales anteriores identificados como históricos no forman un segundo paquete obligatorio.
 
-Las fuentes de esta publicación corresponden al corte `9eef30accaa951ed15b99577912e9145d4396f7c` de los materiales docentes. El [inventario](INVENTARIO.json) permite identificar el archivo y su huella. Las adaptaciones de navegación y publicación conservan horas, RA/CE, tareas ordinarias y criterios de evaluación.
-
-Se incorpora además la [copia contractual operativa v1.0](Contrato/README.md), verificada y distribuida sin datos de equipo ni aceptaciones. Se conserva su binario exacto, de 113.582 bytes y SHA-256 `6a87c5a4571450555c779c3dfe14723cf06ad9b17be43275870a5317e91459b6`. Las 5.544 celdas de las 264 tareas se cotejaron sin diferencias y las 88 comprobaciones de cálculo y controles resultaron satisfactorias. El catálogo contiene criterios de aceptación públicos del contrato, no respuestas de una prueba evaluativa.
-
-Los ejemplos TRAIN y sus datos son ficticios. Las plantillas de equipo se distribuyen vacías. Se conservan las atribuciones y referencias que aparecen en cada documento; esta publicación no añade una licencia distinta a los materiales. Para reutilizaciones que necesiten una autorización adicional, consulta al autor docente.
-
-La biblioteca pública no acredita publicación del curso AULES, acceso al legado, firma contractual, aceptación de tareas, validación de puertas ni ejecución en el equipo de un estudiante. Esos resultados requieren su evidencia propia.
-
-[Inicio](README.md)
+[Inventario](INVENTARIO_V1_20261104.json) · [Inicio](README.md).

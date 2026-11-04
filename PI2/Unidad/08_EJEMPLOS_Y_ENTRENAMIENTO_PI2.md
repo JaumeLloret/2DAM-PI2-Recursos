@@ -27,7 +27,3 @@ Contrasta núcleo 150: dos no pueden recortar a 100; cuatro equilibrados con sol
 
 ## Aprender del feedback
 Anota «pensaba / contraste / cambio / razón». Respuesta sin explicación no prueba transferencia. Si falta catálogo, la referencia y cómputo quedan pendientes; no trasladar TRAIN-* al anexo real.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

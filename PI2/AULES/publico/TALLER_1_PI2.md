@@ -1,24 +1,25 @@
-# Taller 1 · Clínica de alcance
-06/10/2026, 18:35–19:30, Europe/Madrid. **55 min**.
-Traer: E02, objetivos/IN-OUT y selección TRAIN; propuesta real o catálogo pendiente. Resultado: Un objetivo corregido, una exclusión justificada y aceptación observable.
+# Práctica 1 · Clínica de alcance
+
+06/10/2026 · 18:35–19:30 · Europe/Madrid. Misión de **45 min efectivos**, dentro de la franja de 55 min, con 10 min de margen.
+
+**Para qué:** Un objetivo corregido, una exclusión justificada y una aceptación observable.
+
+**Necesitas antes:** objetivos, alcance y un escenario de aceptación.
+
+La primera sesión planificada del 06/10 ya pasó cuando se publica PI2. No se afirma que asistieras ni tienes una obligación retroactiva: conserva lo realizado o utiliza ahora esta misión autónoma.
 
 | Tramo | Min | Acción |
 |---|---:|---|
-| Entrada | 5 | Localiza necesidad y una duda. |
-| Modelado | 10 | Sigue un ejemplo de objetivo frente a herramienta y criterio débil. |
-| Clínica y entrevistas | 25 | Contrasta en pareja una cadena y prepara objeción; el docente realiza cinco entrevistas focalizadas. |
-| Contraste | 10 | Explica una contradicción y decide su corrección. |
-| Salida | 5 | Registra decisión y pregunta pendiente. |
-| **Total** | **55** | |
+| Entrada | 5 | Localiza una necesidad y escribe la duda que impide delimitarla. |
+| Ejemplo | 5 | Compara «usar una tecnología» con «actor que obtiene un resultado observable». Escribe qué le falta al primer objetivo. |
+| Clínica | 25 | Revisa tu cadena necesidad → objetivo → alcance → aceptación. Durante la sesión el docente puede hacer cinco entrevistas de cinco minutos; los demás continúan el contraste. |
+| Contraste | 5 | Objeción: tu exclusión elimina una tarea obligatoria. Compruébala en el catálogo y decide cómo preservar el núcleo. |
+| Salida | 5 | Registra antes/después, fundamento y lo que sigue sin aceptar. |
+| **Total** | **45** | |
 
-## Equivalencia por ausencia
-Sustituye la sesión, no la duplica. Sigue los mismos tramos/minutos de la tabla: entrada escrita, lectura del ejemplo/consigna distribuida, contraste individual documentado, decisión y salida. Si necesitas objeción/consigna, solicítala al docente. Texto accesible o audio breve con transcripción; no grabar a otras personas.
+## Misión autónoma equivalente
+Sustituye la sesión, no la duplica: sigue los cinco tramos, tiempos y consignas de la tabla. Lee el ejemplo/hecho nuevo escrito; responde a la objeción indicada; revisa tu documento y conserva antes/después con una razón. El bloque colectivo se transforma en contraste escrito propio, utilizando las preguntas de la pauta, sin necesitar otra persona ni una explicación oral. Si tienes una revisión de un compañero, puedes utilizarla; no es requisito.
 
-Conserva decisión, fuente, objeción y corrección; la explicación individual se verifica en taller/cita, no solo con declaración escrita.
-Las citas exteriores sustituyen cinco minutos de revisión individual de fase 10. La comprobación en directo/cita permanece; la prueba presencial global es distinta.
+**Comprueba:** otra persona puede localizar tu decisión, fuente, objeción y corrección. No afirmes aceptación real por completar el ejercicio. **Conserva:** decisión y revisión en el paquete; la respuesta personal se envía por el canal reservado. Texto accesible o audio breve con transcripción, sin grabar a otras personas.
 
-No inventar IDs/AT si falta catálogo. Operativo PENDIENTE_PI3 y G1 EN_PROGRESO.
-
----
-
-[Índice de PI2](../../README.md) · [Inicio del módulo](../../../README.md)
+La explicación individual se puede verificar en sesión o cita acordada; el trabajo escrito no finge esa observación. La cita sustituye minutos de revisión individual ya previstos. Pide ayuda indicando la fuente, la decisión y el bloqueo. G1 sigue EN_PROGRESO; planificación detallada PENDIENTE_PI3. La prueba presencial global permanece separada.

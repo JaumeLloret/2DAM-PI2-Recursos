@@ -1,0 +1,41 @@
+{
+  "tipo": "DATOS_SINTETICOS_DE_ENTRENAMIENTO",
+  "version": "PI5-TRAIN-R2",
+  "antecedente": "TRAIN-C2 de PI4; se conserva como historial, no se reutiliza su aceptación",
+  "condiciones": [
+    {
+      "id": "P1",
+      "condicion": "Consulta autorizada de dos tarjetas",
+      "estado": "conforme_en_tarjeta_sintetica",
+      "evidencia": "R2-E1"
+    },
+    {
+      "id": "P2",
+      "condicion": "Tablero vacío comprensible",
+      "estado": "conforme_en_tarjeta_sintetica",
+      "evidencia": "R2-E2"
+    },
+    {
+      "id": "P3",
+      "condicion": "Perfil sin permiso no expone tarjetas",
+      "critica": true,
+      "estado": "no_ejecutado",
+      "ejecutada": false
+    },
+    {
+      "id": "P4",
+      "condicion": "Sesión caducada no conserva tarjetas restringidas visibles",
+      "critica": true,
+      "estado": "conforme_en_tarjeta_sintetica",
+      "evidencia": "R2-E4"
+    }
+  ],
+  "uso": {
+    "id": "U1",
+    "estado": "observacion_posterior_pendiente",
+    "limite": "No es por sí sola una condición contractual nueva."
+  },
+  "aceptacion_final_confirmada": false,
+  "decision": "Propuesta de mantener pendiente la aceptación global; P3 sigue sin ejecutar.",
+  "limite": "Tarjetas ficticias de PI5; no demuestran aplicación real ni usuarios reales."
+}

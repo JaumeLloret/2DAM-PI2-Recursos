@@ -13,7 +13,9 @@ Identifica tarea/entregable, ID, tipo, AT, dependencias y alternativas declarada
 
 Especificación no equivale a fila de tarea. El mismo resultado no suma por aparecer en contrato, issue, PR y demo. No contar una puerta como tarea ni asignar el valor completo a cada colaborador.
 
-El XLSX contractual auténtico ha sido recuperado y cotejado por el docente. Se distribuye por el canal autorizado del curso; no se reconstruye desde esta biblioteca. E05 continúa vacío PENDIENTE_CATALOGO, con totales null/desconocidos, hasta que tu equipo recibe la fuente y coteja su selección. Antes de contratar se comprueba el acceso desde vista estudiante; recuperar el catálogo no firma ni acepta el contrato de un equipo.
+El **CATÁLOGO DISPONIBLE** permite preparar una propuesta. No significa **SELECCIÓN DEL EQUIPO REALIZADA** ni **CONTRATO ACEPTADO**. Descarga «PI2 · Catálogo AulaFlow 2.0» y abre el libro auténtico. La fuente ya está cotejada: 264 tareas, 572 AT de oferta; 96 obligatorias y 150 AT obligatorios (PI II 25, AD 70, PMDM 25, DI 30). IDs y AT permanecen congelados.
+
+La copia operativa para 2–4 integrantes está en «PI2 · Plantillas del paquete contractual». Trabaja en una copia; no alteres el catálogo. El anexo de tu equipo empieza vacío y sin aceptar: registra una selección auténtica antes de pedir confirmación; no copies TRAIN. Lo aún no seleccionado, negociado o aceptado debe quedar expresamente pendiente. Los totales de un equipo sin selección son desconocidos, no cero.
 
 ## Contratado, realizado y aceptado
 Solo **ACEPTADA** valida AT. Estar seleccionado, terminado, entregado o con PR verde no basta. Hace falta evidencia aplicable y aceptación humana conforme al acuerdo. No se aceptan futuras implementaciones por entregar PI2.
@@ -57,7 +59,3 @@ G1 incluye contrato, backlog, planificación y repositorio profesional. PI2 prep
 Antes de confirmar: revisión de propuesta. Después: solicitud → motivo → impacto → propuesta → aprobación → revisión efectiva del contrato. Un CR pendiente no modifica la baseline. Mantener IDs/AT, histórico aceptado y atribución; un cambio de catálogo necesita decisión/versionado competente.
 
 Cambio de equipo: congelar lo aceptado y atribución, reconocer nuevo tamaño real y revisar prospectivamente el alcance restante. PI2 explica el efecto contractual; no reparte personas/tiempos. Impactos operativos no definidos: PENDIENTE_PI3, no cero.
-
----
-
-[Índice de PI2](../README.md) · [Inicio del módulo](../../README.md)

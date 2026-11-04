@@ -1,24 +1,23 @@
-# Taller 2 · Comité de viabilidad
-13/10/2026, 18:35–19:30, Europe/Madrid. **55 min**.
-Traer: E07 con cinco aspectos, fuentes y condiciones; E03/E06. Resultado: Dictamen defendido y condición con consecuencia contractual.
+# Práctica 2 · Comité de viabilidad
+
+13/10/2026 · 18:35–19:30 · Europe/Madrid. Misión de **45 min efectivos**, dentro de la franja de 55 min, con 10 min de margen.
+
+**Para qué:** Un dictamen revisado con fuente y consecuencia contractual.
+
+**Necesitas antes:** un dictamen de viabilidad, su fuente y condición.
 
 | Tramo | Min | Acción |
 |---|---:|---|
-| Entrada | 5 | Presenta pregunta acotada. |
-| Contraste de supuesto | 10 | Distingue documentación de compatibilidad y disponibilidad local. |
-| Comité y entrevistas | 25 | Defiende evidencia/límite y una alternativa; cinco entrevistas docentes mientras el resto contrasta fichas. |
-| Decisión | 10 | Actualiza dictamen y efecto en alcance/aceptación. |
-| Salida | 5 | Registra comprobación pendiente. |
-| **Total** | **55** | |
+| Entrada | 5 | Localiza una pregunta acotada y el hecho que la sostiene. |
+| Supuesto | 5 | Distingue soporte oficial y acceso real; marca lo que aún no has demostrado. |
+| Comité | 25 | Contrasta fuente, versión, supuesto, condición y alternativa. En sesión caben cinco entrevistas focalizadas mientras el resto aplica la misma pauta. |
+| Decisión | 5 | Objeción: el entorno necesario no está disponible. Decide qué evidencia falta y qué prestación debe quedar condicionada. |
+| Salida | 5 | Registra el dictamen revisado y propaga su efecto al contrato. |
+| **Total** | **45** | |
 
-## Equivalencia por ausencia
-Sustituye la sesión, no la duplica. Sigue los mismos tramos/minutos de la tabla: entrada escrita, lectura del ejemplo/consigna distribuida, contraste individual documentado, decisión y salida. Si necesitas objeción/consigna, solicítala al docente. Texto accesible o audio breve con transcripción; no grabar a otras personas.
+## Misión autónoma equivalente
+Sustituye la sesión, no la duplica: sigue los cinco tramos, tiempos y consignas de la tabla. Lee el ejemplo/hecho nuevo escrito; responde a la objeción indicada; revisa tu documento y conserva antes/después con una razón. El bloque colectivo se transforma en contraste escrito propio, utilizando las preguntas de la pauta, sin necesitar otra persona ni una explicación oral. Si tienes una revisión de un compañero, puedes utilizarla; no es requisito.
 
-Conserva decisión, fuente, objeción y corrección; la explicación individual se verifica en taller/cita, no solo con declaración escrita.
-Las citas exteriores sustituyen cinco minutos de revisión individual de fase 10. La comprobación en directo/cita permanece; la prueba presencial global es distinta.
+**Comprueba:** otra persona puede localizar tu decisión, fuente, objeción y corrección. No afirmes aceptación real por completar el ejercicio. **Conserva:** decisión y revisión en el paquete; la respuesta personal se envía por el canal reservado. Texto accesible o audio breve con transcripción, sin grabar a otras personas.
 
-No inventar IDs/AT si falta catálogo. Operativo PENDIENTE_PI3 y G1 EN_PROGRESO.
-
----
-
-[Índice de PI2](../../README.md) · [Inicio del módulo](../../../README.md)
+La explicación individual se puede verificar en sesión o cita acordada; el trabajo escrito no finge esa observación. La cita sustituye minutos de revisión individual ya previstos. Pide ayuda indicando la fuente, la decisión y el bloqueo. G1 sigue EN_PROGRESO; planificación detallada PENDIENTE_PI3. La prueba presencial global permanece separada.
